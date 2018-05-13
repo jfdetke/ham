@@ -1,0 +1,3699 @@
+Script started on Wed 21 Feb 2018 05:58:11 PM PST
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ vim .[K[K[K[K[Kls
+Release.key  typescript  wine.install
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ vm wine.install 
+The program 'vm' is currently not installed. You can install it by typing:
+sudo apt install mgetty-voice
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ j[Kvim wine.install 
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"wine.install" 7L, 210C[>c[2;1H[34m##wget https://dl.winehq.org/wine-builds/Release.key
+##apt-key add Release.key
+## apt-add-repository 'https://dl.winehq.org/wine-builds/ubuntu/'
+#[m
+apt-get update
+apt install --install-recommends winehq-stable
+[94m~                                                                                                                                [9;1H~                                                                                                                                [10;1H~                                                                                                                                [11;1H~                                                                                                                                [12;1H~                                                                                                                                [13;1H~                                                                                                                                [14;1H~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [m[24;112H1,0-1[9CAll[1;1H[?12l[?25h[27m[23m[m[H[2J[?25l[2;1H[96m##wget https://dl.winehq.org/wine-builds/Release.key
+##apt-key add Release.key
+## apt-add-repository 'https://dl.winehq.org/wine-builds/ubuntu/'
+#[m
+apt-get update
+apt install --install-recommends winehq-stable
+[94m~                                                                                                                                [9;1H~                                                                                                                                [10;1H~                                                                                                                                [11;1H~                                                                                                                                [12;1H~                                                                                                                                [13;1H~                                                                                                                                [14;1H~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [m[24;112H1,0-1[9CAll"wine.install" 7L, 210C[1;1HP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12l[?25h[?25l[24;112H2,1  [2;1H[?12l[?25h[?25l[24;112H3[3;1H[?12l[?25h[?25l[24;112H4[4;1H[?12l[?25h[?25l[24;112H5[5;1H[?12l[?25h[?25l[24;112H6[6;1H[?12l[?25h[?25l[24;112H7[7;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;13H[K[24;112H8,1[11CAll[8;1H[K[8;1H[?12l[?25h[?25l[9;1H[K[24;112H9[9;1H[?12l[?25h[?25la[24;114H2[9;2H[?12l[?25h[?25lp[24;114H3[9;3H[?12l[?25h[24;1H[K[9;2H[?25l[24;112H9,2[11CAll[9;2H[?12l[?25h[?25l[24;114H1[9;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;112H[K[24;112H9,1[11CAll[9;1Hp[9;2H[K[9;1H[?12l[?25h[?25lup[24;114H2[9;2H[?12l[?25h[?25ldp[24;114H3[9;3H[?12l[?25h[?25lop[24;114H4[9;4H[?12l[?25h[?25l p[24;114H5[9;5H[?12l[?25h[24;1H[K[9;4H[?25l[24;112H9,4[11CAll[9;4H[?12l[?25h[?25l[24;114H1[9;1H[?12l[?25h[?25lp[9;2H[K[9;1H[?12l[?25h[?25l[9;1H[K[24;114H0-1[9;1H[?12l[?25h[?25l[24;1H[1m-- INSERT --[m[24;112H[K[24;112H9,1[11CAll[9;1H[?12l[?25h[?25ls[24;114H2[9;2H[?12l[?25h[?25lu[24;114H3[9;3H[?12l[?25h[?25ld[24;114H4[9;4H[?12l[?25h[?25lo[24;114H5[9;5H[?12l[?25h[?25l[24;114H6[9;6H[?12l[?25h[?25la[24;114H7[9;7H[?12l[?25h[?25lp[24;114H8[9;8H[?12l[?25h[?25lt[24;114H9[9;9H[?12l[?25h[?25l-[24;114H10[9;10H[?12l[?25h[?25lg[24;115H1[9;11H[?12l[?25h[?25le[24;115H2[9;12H[?12l[?25h[?25lt[24;115H3[9;13H[?12l[?25h[?25l[24;115H4[9;14H[?12l[?25h[?25li[24;115H5[9;15H[?12l[?25h[?25ln[24;115H6[9;16H[?12l[?25h[?25ls[24;115H7[9;17H[?12l[?25h[?25lt[24;115H8[9;18H[?12l[?25h[?25la[24;115H9[9;19H[?12l[?25h[?25ll[24;114H20[9;20H[?12l[?25h[?25ll[24;115H1[9;21H[?12l[?25h[?25l[24;115H2[9;22H[?12l[?25h[?25lw[24;115H3[9;23H[?12l[?25h[?25li[24;115H4[9;24H[?12l[?25h[?25ln[24;115H5[9;25H[?12l[?25h[?25l-[24;115H6[9;26H[?12l[?25h[?25l[9;25H[K[24;115H5[9;25H[?12l[?25h[?25le[24;115H6[9;26H[?12l[?25h[?25l-[24;115H7[9;27H[?12l[?25h[?25lm[24;115H8[9;28H[?12l[?25h[?25lo[24;115H9[9;29H[?12l[?25h[?25ln[24;114H30[9;30H[?12l[?25h[?25lo[24;115H1[9;31H[?12l[?25h[24;1H[K[9;30H[?25l[24;112H9,30[10CAll[9;30H[?12l[?25h[?25l[24;112H[K[24;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"wine.install" 9L, 242C written
+[?1l>[?12l[?25h[?1049l]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ history
+ 1002  docker ps
+ 1003  docker exec -it 3dc605dc1105 /bin/bash
+ 1004  ls
+ 1005  more server.js 
+ 1006  ls
+ 1007  npm server.js 
+ 1008  node CLS
+ 1009  LS
+ 1010  ls
+ 1011  node server.js 
+ 1012  sudo apt install nodejs-legacy
+ 1013  node server.js 
+ 1014  vim server.js 
+ 1015  node server.js 
+ 1016  vim server.js 
+ 1017  node server.js 
+ 1018  vim server.js 
+ 1019  node server.js 
+ 1020  vim server.js 
+ 1021  node server.js 
+ 1022  vim server.js 
+ 1023  node server.js 
+ 1024  vim server.js 
+ 1025  node server.js 
+ 1026  vim server.js 
+ 1027  node server.js 
+ 1028  vim server.js 
+ 1029  node server.js 
+ 1030  vim server.js 
+ 1031  node server.js 
+ 1032  vim server.js 
+ 1033  node server.js 
+ 1034  vim server.js 
+ 1035  node server.js 
+ 1036  vim server.js 
+ 1037  node server.js 
+ 1038  pwd
+ 1039  ls
+ 1040  history|egrep docker |egrep build
+ 1041  docker build -t hello-world . 
+ 1042  history|egrep docker
+ 1043  history|egrep docker|egrep run
+ 1044  docker run -d -p 4001:4000 hello-world
+ 1045  docker ps -a 
+ 1046  docker stop 3dc605dc1105
+ 1047  docker rmi
+ 1048  docker rmi all
+ 1049  docker rmi 3dc605dc1105
+ 1050  docker ps -a 
+ 1051  docker ps -a |awk  '{print $2}'
+ 1052  docker rmi `docker ps -a |awk  '{print $2}'1
+ 1053  docker rmi `docker ps -a | awk  '{print $2}' `
+ 1054  docker ps -i
+ 1055  docker ps -a
+ 1056  docker help
+ 1057  docker rm `docker ps -a | awk  '{print $1}' `
+ 1058  docker ps -a
+ 1059  docker help
+ 1060  docker images
+ 1061  docker rmi `docker images|awk '{print $3}' `
+ 1062  docker images
+ 1063  docker build -t hello-world . 
+ 1064  docker run -d -p 4001:4000 hello-world
+ 1065  pwd
+ 1066  cd Projects/
+ 1067  ls
+ 1068  cd docker/
+ 1069  ls
+ 1070  docker version
+ 1071  cat /etc/*release*
+ 1072  sudo apt-get remove docker docker-engine docker.io
+ 1073  cat /etc/*release*
+ 1074  sudo apt-get update
+ 1075  script
+ 1076  pwd
+ 1077  mkdir node.hellworld
+ 1078  cd node.hellworld/
+ 1079  vim Dockerfile
+ 1080  docker build -t hello-world .
+ 1081  sudo docker build -t hello-world .
+ 1082  sudo usermod -a -G docker jdetke
+ 1083  docker build -t hello-world .
+ 1084  groups
+ 1085  bash
+ 1086  groups
+ 1087  egrep jdetke /etc/group
+ 1088  newgrp docker
+ 1089  pwd
+ 1090  cd Projects/
+ 1091  ls
+ 1092  ls -altr
+ 1093  cd docker/
+ 1094  ls -altr
+ 1095  cd node.hellworld/
+ 1096  ls
+ 1097  cd docker-node-hello-world/
+ 1098  ls
+ 1099  docker ps -a
+ 1100  docker start hello-world
+ 1101  docker start ab1df852c4e2
+ 1102  docker ps -a
+ 1103  docker stop ab1df852c4e2
+ 1104  history|egrep run
+ 1105  docker run -d -p 4001:4000 hello-world
+ 1106  ssh panix5.panix.com
+ 1107  clear
+ 1108  sudo apt-get install collectd
+ 1109  ps -ef|egrep collect
+ 1110  sudo lsof -in
+ 1111  sudo lsof -i -n
+ 1112  man collectd
+ 1113  sudo /sbin/sysctl  status
+ 1114  sudo /sbin/sysctl  collectd
+ 1115  ls /etc/init.d/collectd 
+ 1116  more /etc/init.d/collectd
+ 1117  more /etc/init.d/collectd status
+ 1118  status
+ 1119  sudo lsof -i -n
+ 1120  man collectd
+ 1121  more /etc/init.d/collectd stop
+ 1122  /etc/init.d/collectd stop
+ 1123  more /etc/init.d/collectd status
+ 1124  more /etc/init.d/collectd statu 
+ 1125  statu
+ 1126  sudo apt-get install telegraf
+ 1127  sudo apt-get remove collectd
+ 1128  ps -ef|egrep telegra
+ 1129  sudo apt-get install telegraf
+ 1130  curl -sL https://repos.influxdata.com/influxdb.key |sudo apt-key add - 
+ 1131  source /etc/lsb-release 
+ 1132  echo "deb https://repos.influxdata.com/${DISTRIB_ID,,} ${DISTRIB_CODENAME} stable" | sudo tee /etc/apt/sources.list.d/influxdb.list
+ 1133  sudo apt-get update
+ 1134  sudo apt-get install telegraf
+ 1135  ps -ef|egrep teleg
+ 1136  sudo lsof -i -n 
+ 1137  systemctl status telegraf
+ 1138  sudo apt-get install influxdb
+ 1139  systemctl status influxdb
+ 1140  systemctl start influxdb
+ 1141  systemctl status telegraf
+ 1142  systemctl status influxdb
+ 1143  influx
+ 1144  sudo vim /etc/influxdb/influxdb.conf 
+ 1145  sudo systemctl restart influxdb
+ 1146  vim /etc/telegraf/telegraf.conf 
+ 1147  sudo diff /etc/telegraf/telegraf.conf /tmp/foo
+ 1148  sudo cp /tmp/foo /etc/telegraf/telegraf.conf 
+ 1149  sudo systemctl restart telegraf
+ 1150  sudo systemctl status telegraf
+ 1151  influx -username jdetke -password 'admin'
+ 1152  sudo apt-get install kapacitor
+ 1153  sudo vim /etc/kapacitor/kapacitor.conf 
+ 1154  sudo systemctl resstart kapacitor
+ 1155  sudo systemctl restart kapacitor
+ 1156  kapacitor list tasks
+ 1157  sudo apt-get install grafana
+ 1158  grafana
+ 1159  ps -ef|egrep grafana
+ 1160  sudo lsof -i -n |egrep graf
+ 1161  sudo service grafana-server status
+ 1162  influx -username jdetke -password 'admin'
+ 1163  sudo apt-get install chronograf
+ 1164  sudo systemctl start chronograf
+ 1165  nptdate
+ 1166  ntpstat
+ 1167  sudo apt install ntpstat
+ 1168  ntpstat
+ 1169  ps -ef|egrep ntp
+ 1170  cat /etc/*release*
+ 1171  timedatectl
+ 1172  echo `timedatectl`
+ 1173  cd Projects/
+ 1174  ls
+ 1175  mkdir Golang
+ 1176  cd Golang/
+ 1177  which go
+ 1178  go -v
+ 1179  vim hello-world.go
+ 1180  go run hello-world.go 
+ 1181  go build hello-world.go 
+ 1182  ls
+ 1183  ./hello-world 
+ 1184  df
+ 1185  cd
+ 1186  cd docs/
+ 1187  ls
+ 1188  cd Usenix/
+ 1189  ls
+ 1190  ls /media/jdetke/1009-4D9B/
+ 1191  rcp -rp /media/jdetke/1009-4D9B/LISA17 .
+ 1192  cd
+ 1193  df
+ 1194  pwd
+ 1195  cd docs/Usenix/
+ 1196  du -skh *
+ 1197  cd
+ 1198  pwd\\\]\]\]\]
+ 1199  kubectl run -i --tty busybox --image=busybox --restart=Never -- sh
+ 1200  sudo opt-get install kubectl
+ 1201  sudo apt-get install kubectl
+ 1202  ssh panix5.panix.com
+ 1203  ssh panix.com
+ 1204  cd Downloads/
+ 1205  ls -altr
+ 1206  unzip bonamassa-christmas-2017-album.zip 
+ 1207  ls
+ 1208  ls mp3*
+ 1209  ls *mp3
+ 1210  ls -ld *mp3
+ 1211  ls -latr
+ 1212  mkdir ~/Music/bonamassa-christmas-2017
+ 1213  mv bonamassa-christmas-2017-album.zip *mp3 ~/Music/bonamassa-christmas-2017
+ 1214  cd ~/Music/bonamassa-christmas-2017
+ 1215  cd
+ 1216  cd Downloads/
+ 1217  ls -altr
+ 1218  ls jdetke*
+ 1219  mv jdetke*CV* jdetke-CV.pdf
+ 1220  ls -altr
+ 1221  mv Fastly\ Senior\ Incident\ Cover\ letter.pdf  Fastly.Senior.Incident.pdf
+ 1222  ls -altr
+ 1223  htop
+ 1224  ssh panix5.panix.com
+ 1225  cat /etc/*release*
+ 1226  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+ 1227  sudo apt-get install nodejs
+ 1228  sudo apt-get update
+ 1229  sudo apt-get upgrade
+ 1230  ntpdate
+ 1231  apt-get install build-essential
+ 1232  sudo apt-get install build-essential
+ 1233  sudo apt-get install curl
+ 1234  sudo apt-get install nodejs
+ 1235  sudo apt-get install git
+ 1236  cat /etc/udev/rules.d/60-ed-persistent-serial.rules 
+ 1237  cat /etc/udev/rules.d/
+ 1238  ls /etc/udev/rules.d/
+ 1239  pwd
+ 1240  cd Projects/
+ 1241  mkdir wizkers
+ 1242  cd wizkers/
+ 1243  git clone https://github.com/wizkers/wizkers.git
+ 1244  cd wizkers/wizkers/
+ 1245  pwd
+ 1246  ls
+ 1247  sudo npm install -g gulp-cli
+ 1248  npm install
+ 1249  sudo npm install
+ 1250  npm install
+ 1251  ls /home/jdetke/.config/
+ 1252  ls -ld /home/jdetke/.config/
+ 1253  npm update check
+ 1254  ls -ld /home/jdetke/.config/
+ 1255  ls -ld /home/jdetke/.config/*
+ 1256  ls -ld /home/jdetke/.config/configstore/
+ 1257  sudo chown jdetke /home/jdetke/.config/configstore/
+ 1258  ls -l /home/jdetke/.config/configstore/
+ 1259  sudo chown jdetke /home/jdetke/.config/configstore/
+ 1260  sudo chown jdetke /home/jdetke/.config/configstore/update-notifier-npm.json 
+ 1261  ls -l /home/jdetke/.config/configstore/
+ 1262  npm update check
+ 1263  npm install
+ 1264  OEM=radio gulp server
+ 1265  ls dist/
+ 1266  ls dist/server/
+ 1267  cd dist/server/
+ 1268  ./start_server.sh 
+ 1269  cd Projects/wizkers/
+ 1270  ls
+ 1271  cd wizkers/
+ 1272  ls
+ 1273  cd wizkers/
+ 1274  ls
+ 1275  cd server/
+ 1276  ls
+ 1277  ls utils
+ 1278  cd ..
+ 1279  ls
+ 1280  OEM=radio gulp server
+ 1281  find * -name \*jvm
+ 1282  ls dist
+ 1283  ls dist/server/
+ 1284  cd dist/server/
+ 1285  ls
+ 1286  ./start_server.sh 
+ 1287  cd Projects/
+ 1288  mkdir icloud
+ 1289  cd icloud/
+ 1290  git clone https://github.com/ndbroadbent/icloud_photos_downloader.git
+ 1291  cd icloud_photos_downloader/
+ 1292  ls
+ 1293  sud pip install -r requirements.txt 
+ 1294  sudo pip install -r requirements.txt 
+ 1295  which pip
+ 1296  sudo apt-get pip
+ 1297  sudo apt-get install pip
+ 1298  sudo apt-get install python
+ 1299  which pip
+ 1300  ls
+ 1301  more requirements.txt 
+ 1302  sudo apt-get install python-pip
+ 1303  sudo pip install -r requirements.txt 
+ 1304  ./download_photos.py  --username=jdetke@groupon.com
+ 1305  mkdir Photos
+ 1306  ./download_photos.py ./Photos   --username=jdetke@groupon.com
+ 1307  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple
+ 1308  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple --size=original 
+ 1309  clear
+ 1310  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple --size=original 
+ 1311  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple  
+ 1312  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=f00Apple  
+ 1313  pwd
+ 1314  df
+ 1315  du -skh .
+ 1316  df .
+ 1317  df -h .
+ 1318  pwd
+ 1319  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=f00Apple  
+ 1320  ./download_photos.py ./Photos  --download_videos  --username=jdetke@groupon.com --password=f00Apple  
+ 1321  ./download_photos.py ./Photos  --download-videos  --username=jdetke@groupon.com --password=f00Apple  
+ 1322  df
+ 1323  cd /media/jdetke/4C61-E1D1/
+ 1324  ls
+ 1325  rm SanDiskSecureAccessV2*
+ 1326  rm -rf SanDiskSecureAccessV2.0*
+ 1327  ls
+ 1328  rm Back\ Up\ Your\ Files\ to\ the\ Cloud.pdf 
+ 1329  df .
+ 1330  ls -l jdetke/
+ 1331  ls
+ 1332  ls -altr
+ 1333  mv jdetke/ jdetke.dec.2016
+ 1334  cd jdetke.dec.2016/
+ 1335  ls
+ 1336  LS -LCl
+ 1337  LS -L 
+ 1338  ls vx7.img 
+ 1339  ls -l vx7.img 
+ 1340  ls -altr
+ 1341  rm vx7.img 
+ 1342  df.
+ 1343  du -sk *|sort -n 
+ 1344  ls Downloads/
+ 1345  cd Downloads/
+ 1346  ls
+ 1347  du -sk *|sort -n 
+ 1348  rm AdwareMedic.dmg 
+ 1349  ls Ottmar\ Liebert/
+ 1350  rm -rf Ottmar\ Liebert/
+ 1351  df .
+ 1352  cd 
+ 1353  ls
+ 1354  du -sk *|sort -n 
+ 1355  ls Projects/
+ 1356  cd Desktop/
+ 1357  ls
+ 1358  rm -rf Beetlejuice\ \(1988\).mp4  
+ 1359  df .
+ 1360  pwd
+ 1361  cd
+ 1362  ls
+ 1363  df
+ 1364  cd /media/jdetke/
+ 1365  df .
+ 1366  ls
+ 1367  cd 4C61-E1D1/
+ 1368  ls
+ 1369  alias|egrep rsync
+ 1370  pwd
+ 1371  cd /home
+ 1372  rsync -avzh jdetke /media/jdetke/4C61-E1D1/
+ 1373  df
+ 1374  ls
+ 1375  pwd
+ 1376  cd /media/jdetke/4C61-E1D1/
+ 1377  ls
+ 1378  rm -rf jdetke
+ 1379  pwd
+ 1380  ls
+ 1381  ls jdetke.dec.2016/.mozilla/
+ 1382  rm -rf jdetke.dec.2016/.mozilla/
+ 1383  ls
+ 1384  df .
+ 1385  ls
+ 1386  df .
+ 1387  du -skh *
+ 1388  pwd
+ 1389  cd jdetke.dec.2016/
+ 1390  ls
+ 1391  df .
+ 1392  du -sk *|sort -n 
+ 1393  du -sk . 
+ 1394  tar tvf kk.tar 
+ 1395  pwd
+ 1396  ls
+ 1397  du -sk . 
+ 1398  df .
+ 1399  df /home
+ 1400  df
+ 1401  pwd
+ 1402  ls
+ 1403  du -skh /home/jdetke/
+ 1404  df .
+ 1405  df -h .
+ 1406  cd
+ 1407  cd /media/jdetke/NO\ NAME/
+ 1408  ls
+ 1409  ls -latr
+ 1410  mv jdetke/ jdetke.nov.2016
+ 1411  pwd
+ 1412  ls
+ 1413  touch foobar
+ 1414  df .
+ 1415  ls
+ 1416  ls -lR
+ 1417  pwd
+ 1418  df
+ 1419  mount
+ 1420  exit
+ 1421  mount
+ 1422  mount|egrep sdb
+ 1423  exit
+ 1424  man rsync
+ 1425  pwd
+ 1426  cd
+ 1427  df
+ 1428  while :; do df |egrep media;sleep 10;done
+ 1429  exit
+ 1430  df
+ 1431  df -h 
+ 1432  pwd
+ 1433  du -skh .
+ 1434  ls /media/jdetke/
+ 1435  ls /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1436  du -sk *|sort -n 
+ 1437  ls Downloads/
+ 1438  cd Downloads/
+ 1439  ls -s |sort -n 
+ 1440  rm -rf zoom_amd64.deb 
+ 1441  rm -rf clonezilla-live-20161121-yakkety-amd64.zip 
+ 1442  df .
+ 1443  cd
+ 1444  pwd
+ 1445  ls
+ 1446  cd /home
+ 1447  df /tmp
+ 1448  df -h /tmp
+ 1449  ls
+ 1450  PWD
+ 1451  pwd
+ 1452  ls
+ 1453  ls -altr
+ 1454  ls
+ 1455  ls -l Ghost-Story-A-Novel-of-the-Dresden-Files.azw 
+ 1456  rm -rf Ghost-Story-A-Novel-of-the-Dresden-Files.azw 
+ 1457  ls ISOs/
+ 1458  sudo ls ISOs/
+ 1459  ls
+ 1460  pwd
+ 1461  cd jdetke/
+ 1462  ls
+ 1463  ls ../Downloads/
+ 1464  sudo ls ../Downloads/
+ 1465  ls
+ 1466  rm parkflynsave.xmas.2014 
+ 1467  sudo du -skh .
+ 1468  ls /tmp
+ 1469  df /tmp
+ 1470  cd /home
+ 1471  tar zcvf /tmp/foo.tgz jdetke 
+ 1472  ls -latr /tmp
+ 1473  ls -s /tmp/foo.tgz 
+ 1474  ls -sh /tmp/foo.tgz
+ 1475  df
+ 1476  df -h /
+ 1477  cd /media/jdetke/4C61-E1D1/
+ 1478  df -h .
+ 1479  pwd
+ 1480  ls
+ 1481  ls jdetke.dec.2016/
+ 1482  rsync -avz /home/jdetke jdetke.dec.2016/
+ 1483  rsync -avz /home/jdetke/ jdetke.dec.2016/
+ 1484  pwd
+ 1485  rsync -h 
+ 1486  rsync -h |egrep skip
+ 1487  cd jdetke.dec.2016/
+ 1488  ls
+ 1489  ls -altr
+ 1490  pwd
+ 1491  cd jdetke/
+ 1492  ls
+ 1493  ls -altr
+ 1494  cd ..
+ 1495  ls -altr
+ 1496  rm -rf jdetke/
+ 1497  rm -rf .cache/
+ 1498  df
+ 1499  df -h 
+ 1500  ls
+ 1501  ls -altr
+ 1502  ls .compiz/
+ 1503  sudo du -sk *
+ 1504  sudo du -sk *|sort -n 
+ 1505  rm -rf CrashPlan-install/
+ 1506  tar tvf kk.tar 
+ 1507  gzip kk.tar 
+ 1508  ls
+ 1509  mv kk.tar.gz Projects/
+ 1510  ls translog.20140706122617.log 
+ 1511  more translog.20140706122617.log
+ 1512  rm  translog.20140706122617.log 
+ 1513  pwd
+ 1514  ls
+ 1515  du -skh *
+ 1516  du -sk *|sort -n 
+ 1517  ls Downloads/
+ 1518  cd Downloads/
+ 1519  ls *1*
+ 1520  pwd
+ 1521  ls snow*
+ 1522  ls
+ 1523  ls */snow*
+ 1524  rm -rf */snowcamp*
+ 1525  pwd
+ 1526  ls
+ 1527  df
+ 1528  df -h
+ 1529  du -skh ~/Pictures/
+ 1530  pwd
+ 1531  ls
+ 1532  du -skh /home/jdetke/
+ 1533  ls
+ 1534  du -skh /home/jdetke/.cache/
+ 1535  du -skh /home/jdetke/.mozilla/
+ 1536  CD
+ 1537  VIM
+ 1538  pwd
+ 1539  cd
+ 1540  vim rsync-exclude.txt
+ 1541  sudo du -sk .??* |sort -n 
+ 1542  ls .vagrant.d/
+ 1543  vim rsync-exclude.txt
+ 1544  du -sk *|sort -n 
+ 1545  df -hl
+ 1546  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1547  vim rsync-exclude.txt
+ 1548  cd /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1549  ls
+ 1550  rm -rf .macromedia/
+ 1551  rm -rf .mozilla/
+ 1552  cd
+ 1553  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1554  df
+ 1555  cd /media/jdetke/4C61-E1D1/
+ 1556  ls
+ 1557  mv jdetke.dec.2016/ jdetke
+ 1558  cd jdetke/
+ 1559  ls -altr
+ 1560  ls Videos/
+ 1561  ls Documents/
+ 1562  ls -altr
+ 1563  du -sk .??*
+ 1564  du -sk .??*|sort -n 
+ 1565  du -sk *\sort -n 
+ 1566  du -sk *|sort -n 
+ 1567  rm -rf CrashPlan-install/
+ 1568  rm -rf crashplan/
+ 1569  ls Src/
+ 1570  cd Src/
+ 1571  du -sk *|sort -n 
+ 1572  rm -rf Tomato/
+ 1573  cd ..
+ 1574  du -sk *|sort -n 
+ 1575  cd Downloads/
+ 1576  du -sk *|sort -n 
+ 1577  rm -rf Ottmar\ Liebert/ 
+ 1578  df .
+ 1579  ls
+ 1580  du -sk *|sort -n 
+ 1581  cd 
+ 1582  cd Downloads/
+ 1583  du -sk *|sort -n 
+ 1584  rm -rf Ottmar\ Liebert/
+ 1585  ls Asus/
+ 1586  pwd
+ 1587  cd
+ 1588  ls
+ 1589  du -sk *|sort -n 
+ 1590  cd Projects/
+ 1591  du -sk *|sort -n 
+ 1592  cd icloud/
+ 1593  ls
+ 1594  cd icloud_photos_downloader/
+ 1595  ls
+ 1596  du -sk .
+ 1597  du -skh .
+ 1598  pwd
+ 1599  cd
+ 1600  pwd
+ 1601  ls
+ 1602  cd Projects/icloud/icloud_photos_downloader/
+ 1603  ls
+ 1604  ls Photos/
+ 1605  df
+ 1606  df -h /media/
+ 1607  pwd
+ 1608  ls /media/jdetke/
+ 1609  ls /media/jdetke/Lexar/
+ 1610  ls /media/jdetke/Lexar/HRblock/
+ 1611  ls -l /media/jdetke/Lexar/HRblock/
+ 1612  ls -l /media/jdetke/Lexar/
+ 1613  df
+ 1614  df -hl
+ 1615  cd
+ 1616  df
+ 1617  pwd
+ 1618  ls
+ 1619  du -skh .
+ 1620  du -sk *|sort -n 
+ 1621  ls 300.moon.meadow/
+ 1622  ls -latr 300.moon.meadow/
+ 1623  pwd
+ 1624  cd 300.moon.meadow/
+ 1625  ls
+ 1626  ls -altr
+ 1627  rm -rm PICT00*
+ 1628  rm -rf PICT00*
+ 1629  df .
+ 1630  cd ..
+ 1631  ls -l 300.moon.meadow/
+ 1632  rm -rf 300.moon.meadow/
+ 1633  cd /media/jdetke/4C61-E1D1/jdetke/
+ 1634  ls
+ 1635  rm -rf 300.moon.meadow/
+ 1636  df
+ 1637  pwd
+ 1638  cd ..
+ 1639  du -sk *|sort -n 
+ 1640  pwd
+ 1641  cd
+ 1642  history|egrep rsync
+ 1643  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1644  cd /media/jdetke/4C61-E1D1/
+ 1645  ls
+ 1646  ls jdetke.dec.2016/
+ 1647  du -sk *
+ 1648  du -sk jdetke.dec.2016/
+ 1649  rm -rf jdetke.dec.2016/
+ 1650  pwd
+ 1651  cd
+ 1652  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke/
+ 1653  df
+ 1654  pwd
+ 1655  cd ..
+ 1656  ls
+ 1657  mkdir foob
+ 1658  cp  */*pdf foob/
+ 1659  cd foob/
+ 1660  ls
+ 1661  pdftk  --help
+ 1662  man pdftk
+ 1663  exit
+ 1664  mkdir Linda
+ 1665  df
+ 1666  mkdir 2017
+ 1667  mv 2017/ 2016
+ 1668  cd 2016/
+ 1669  ls
+ 1670  cp /media/jdetke/CED4-4C12/*pdf .
+ 1671  ls
+ 1672  ls -l *
+ 1673  pwd
+ 1674  cd ..
+ 1675  mv 2016/ Linda/
+ 1676  cd Linda/2016/
+ 1677  mv jdetke.pdf jdetke-cover.pdf
+ 1678  ls -lat
+ 1679  pwd
+ 1680  PWD
+ 1681  pwd
+ 1682  mv jdetke-cover.pdf jdetke-cover-2016.pdf
+ 1683  ls
+ 1684  mv jdetke.state.pdf  jdetke.state.state.pdf
+ 1685  mv jdetke.state.state.pdf  jdetke.state.2016.pdf
+ 1686  ls
+ 1687  mv jdetke.federal.pdf  jdetke.federal.2016.pdf
+ 1688  cd ..
+ 1689  mkdir 2015
+ 1690  cd 201
+ 1691  cd 2015/
+ 1692  ;ls
+ 1693  pwd
+ 1694  df
+ 1695  cp /media/jdetke/346A-3483/jdetke.*pdf .
+ 1696  ls
+ 1697  apt-get install pdftk
+ 1698  sudo apt-get install pdftk
+ 1699  sudo apt-get install PDFChain
+ 1700  ls
+ 1701  pwd
+ 1702  cd ../foob/
+ 1703  ls
+ 1704  pdftk  jdetke-cover-2016.pdf output jdetke-cover-2016.encrypted.pdf owner_pw foobar user_pw baz
+ 1705  ls -altr
+ 1706  file jdetke-cover-2016.encrypted.pdf 
+ 1707  rm jdetke-cover-2016.encrypted.pdf
+ 1708  ls -altr
+ 1709  pdftk  jdetke-cover-2016.pdf output jdetke-cover-2016.encrypted.pdf owner_pw foobar user_pw s.splc1:36,7
+ 1710  pdftk  jdetke-cover-2016.pdf output jdetke.state.pdf jdetke.state.2015.encrypted.pdf  owner_pw foobar user_pw s.splc1:36,7
+ 1711  ls *encrypt*
+ 1712  rm *encrypt*
+ 1713  ls
+ 1714  mv jdetke.state.pdf jdetke.state.2015.pdf
+ 1715  ls 
+ 1716  ls -ltr
+ 1717  pdftk  jdetke*pdf output jdetke.encrypted.pdf  owner_pw foobar user_pw s.splc1:36,7
+ 1718  ls -latr
+ 1719  file jdetke.encrypted.pdf 
+ 1720  pdftk  jdetke*pdf output jdetke.encrypted.pdf  owner_pw f00b4rme  user_pw s.splc1:36,7
+ 1721  ls
+ 1722  rm *encrypt*
+ 1723  pdftk  jdetke*pdf output jdetke.encrypted.pdf  owner_pw f00b4rme  user_pw s.splc1:36,7
+ 1724  ls -altr
+ 1725  file jdetke.encrypted.pdf 
+ 1726  mv jdetke.encrypted.pdf  ..
+ 1727  cd ..
+ 1728  rm -rf foob/
+ 1729  pwd
+ 1730  cd Projects/icloud/
+ 1731  ls
+ 1732  ls -altr
+ 1733  ls
+ 1734  history|egrep jdetke
+ 1735  history|egrep groupon
+ 1736  vim doit
+ 1737  history|egrep groupon|tail -5 >> doit 
+ 1738  vim doit 
+ 1739  bash ./doit 
+ 1740  df
+ 1741  pwd
+ 1742  cd /media/jdetke/45CB-77ED/
+ 1743  ls
+ 1744  ls -altr
+ 1745  cd
+ 1746  df
+ 1747  cd /media/jdetke/4C61-E1D1/
+ 1748  ls
+ 1749  cd jdetke/
+ 1750  ls
+ 1751  cd Projects/icloud/
+ 1752  ls
+ 1753  cd icloud_photos_downloader/
+ 1754  ls
+ 1755  cd ph
+ 1756  cd Photos/
+ 1757  ls
+ 1758  ls /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/
+ 1759  rsyn -av /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/ .
+ 1760  rsync -av /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/ .
+ 1761  pwd
+ 1762  ls
+ 1763  ls -l 2015
+ 1764  ls -l 2016
+ 1765  ls -altr
+ 1766  cd /tmp
+ 1767  mkdir foob
+ 1768  cd foob
+ 1769  rsync -av /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/ .
+ 1770  pwd
+ 1771  ls
+ 1772  cd ..
+ 1773  ls
+ 1774  ls -altr
+ 1775  cd foob/
+ 1776  ls -altr
+ 1777  find * -name \*pdf
+ 1778  cd
+ 1779  ls -altr
+ 1780  cd Linda/
+ 1781  ls
+ 1782  file jdetke.encrypted.pdf 
+ 1783  df
+ 1784  cd /media/jdetke/987E-C561/
+ 1785  ls
+ 1786  pwd
+ 1787  df .
+ 1788  du -sk *
+ 1789  exit
+ 1790  cd Downloads/
+ 1791  ls -altr *pdf
+ 1792  cd
+ 1793  cd docs/
+ 1794  ls
+ 1795  cd ..
+ 1796  ls -altr
+ 1797  cd Documents/
+ 1798  ls -altr
+ 1799  find * -name \*pdf
+ 1800  find * -name \*res\*pdf
+ 1801  ls -l resume.pdf 
+ 1802  pwd
+ 1803  mkdir 2012 
+ 1804  pwd
+ 1805  cd
+ 1806  ls -altr
+ 1807  cd Downloads/CLSC
+ 1808  ls -ltr
+ 1809  cd Downloads/
+ 1810  ls
+ 1811  ls -ltr
+ 1812  sudo apt install glances python-bottle
+ 1813  glances -w 
+ 1814  HTOP
+ 1815  hto
+ 1816  htop
+ 1817  top
+ 1818  docker
+ 1819  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1820  docker ps
+ 1821  sudo lsof -i 
+ 1822  sudo lsof -i -N
+ 1823  sudo lsof -i -P
+ 1824  docker 
+ 1825  docker kill
+ 1826  docker kill all
+ 1827  docker ps
+ 1828  docker kill bc4c0495f3c3
+ 1829  docker ps
+ 1830  cd Projects/
+ 1831  ls 
+ 1832  mkdir traefic 
+ 1833  cd traefic/
+ 1834  git clone https://github.com/containous/traefik
+ 1835  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1836  sudo apt-get docker-compose
+ 1837  sudo apt-get install docker-compose
+ 1838  vim docker-compose.yml
+ 1839  docker-compose  up -d 
+ 1840  docker ps
+ 1841  docker kill version: '2'
+ 1842  services:
+ 1843  networks:
+ 1844  docker-compose  up -d 
+ 1845  sudo docker-compose  up -d 
+ 1846  pwd
+ 1847  cd ..
+ 1848  mv traefic/ traefik
+ 1849  cd tra
+ 1850  cd traefik/
+ 1851  ls
+ 1852  docker-compose  up -d 
+ 1853  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1854  history|egrep run
+ 1855  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1856  mv docker-compose.yml  /tmp
+ 1857  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1858  docker ps
+ 1859  docker kill 40818aa7c798
+ 1860  pwd
+ 1861  ls
+ 1862  cd ..
+ 1863  pwd
+ 1864  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1865  docker kill 40818aa7c798
+ 1866  docker ps
+ 1867  docker kill 40818aa7c798
+ 1868  docker ps
+ 1869  docker kill 0ea7eba2a3e6
+ 1870  pwd
+ 1871  cd traefik
+ 1872  ls
+ 1873  ls -l
+ 1874  more traefik.toml/
+ 1875  ls traefik.toml/
+ 1876  cd ..
+ 1877  pwd
+ 1878  mkdir foobar
+ 1879  cd foobar/
+ 1880  ls
+ 1881  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1882  ls
+ 1883  rm -rf traefik.toml/
+ 1884  ls
+ 1885  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1886  docker ps
+ 1887  docker ps -h
+ 1888  docker ps -q
+ 1889  docker kill `docker ps -q`
+ 1890  docker ps -q
+ 1891  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1892  docker attach `docker ps -q`
+ 1893  docker exec -it `docker ps -q`
+ 1894  docker exec -it `docker ps -q` bash
+ 1895  docker exec -it `docker ps -q`  bash
+ 1896  docker ps -q 
+ 1897  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1898  docker exec -it `docker ps -q`  bash
+ 1899  docker ps -q 
+ 1900  docker exec -it `docker ps -q`  date
+ 1901  docker exec -it `docker ps -q`  ls
+ 1902  docker ps -q 
+ 1903  docker exec -it `docker ps -q` bash
+ 1904  docker ps -q 
+ 1905  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1906  docker ps -q 
+ 1907  docker exec -it `docker ps -q` bash
+ 1908  docker ps -q 
+ 1909  docker attach `docker ps -q`
+ 1910  dmesg
+ 1911  which chirp
+ 1912  dmesg
+ 1913  which chirp
+ 1914  chirpw 
+ 1915  dmesg
+ 1916  top
+ 1917  ps -ef|egrep chirp
+ 1918  ls /dev/tty*
+ 1919  ls -latr /dev/tty*
+ 1920  sudo chmod ugo+rw /dev/ttyUSB0 
+ 1921  ls -latr /dev/tty*
+ 1922  sudo addgroup jdetke dialout
+ 1923  cd /etc/udev/rules.d/
+ 1924  ls -l 40*
+ 1925  sudo vim 40-permissions.rules 
+ 1926  cd /etc/udev/rules.d
+ 1927  cd
+ 1928  sudo apt-get repository 
+ 1929  sudo apt-get repository   https://launchpad.net/~ubuntu-hams-updates/+archive/ppa
+ 1930  history
+ 1931  sudo add-apt-repository ppa:ubuntu-hams-updates/ppa
+ 1932  sudo apt-get update
+ 1933  sudo apt-get install fldigi
+ 1934  sudo /sbin/reboot 
+ 1935  fldigi
+ 1936  lsusb
+ 1937  chirpw &
+ 1938  pwd
+ 1939  ls -latr
+ 1940  more radioreference.csv 
+ 1941  fldigi
+ 1942  pwd
+ 1943  ls -altr
+ 1944  ls *xml
+ 1945  rm .fldigi/
+ 1946  rm -rf .fldigi/
+ 1947  fldigi  &
+ 1948  ls 
+ 1949  ls *xml
+ 1950  cd
+ 1951  ls -altr Downloads/*xml
+ 1952  cp Downloads/FT
+ 1953  fldigi
+ 1954  cd Projects/
+ 1955  ls
+ 1956  mkdir pytyon
+ 1957  mv pytyon/ python
+ 1958  cd python/
+ 1959  ls
+ 1960  python --version
+ 1961  which python
+ 1962  sudo apt-get update
+ 1963  ls ~/Downloads/google-python-exercises.zip 
+ 1964  gunzip ~/Downloads/google-python-exercises.zip
+ 1965  unzip ~/Downloads/google-python-exercises.zip
+ 1966  ls
+ 1967  cd google-python-exercises/
+ 1968  ls
+ 1969  python ./hello.py 
+ 1970  vim hello.py 
+ 1971  python
+ 1972  JEdit
+ 1973  pwd
+ 1974  python ./hello.py  John
+ 1975  python ./hello.py  April
+ 1976  python ./hello.py  April is awesome
+ 1977  python ./hello.py  April
+ 1978  cd Downloads/
+ 1979  ls -altr
+ 1980  cd ../Projects/
+ 1981  man bunzip
+ 1982  man bz
+ 1983  tar -xvj ~/Downloads/anki-2.0.47-amd64.tar.bz2 
+ 1984  tar -xfj ~/Downloads/anki-2.0.47-amd64.tar.bz2 
+ 1985  tar -xf ~/Downloads/anki-2.0.47-amd64.tar.bz2 
+ 1986  ls
+ 1987  ls -altr
+ 1988  cd anki-2.0.47/
+ 1989  ls
+ 1990  more README 
+ 1991  file bin/anki
+ 1992  ls
+ 1993  view Makefile 
+ 1994  sudo make install
+ 1995  bin/anki 
+ 1996  sudo make install
+ 1997  ssh panix5.panix.com
+ 1998  ls
+ 1999  vm wine.install 
+ 2000  vim wine.install 
+ 2001  history
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winhistoryvim wine.install [1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kssh panix5.panix.com[3Pudo make install[8Pbin/anki sudo make install[3Pview Makefile ls[Kfile bin/ankils[Kview Makefile sudo make install[8Pbin/anki sudo make installC^C
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ history|egrep winetr
+ 2002  history|egrep [01;31m[Kwinetr[m[K
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ history|egrep winetr[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwoi[K[Kinetricks  --list
+------------------------------------------------------
+unknown option --list
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winetricks  --list[K[K[K[K[K[K-h
+Usage: /usr/bin/winetricks [options] [command|verb|path-to-verb] ...
+Executes given verbs.  Each verb installs an application or changes a setting.
+
+Options:
+    --force           Don't check whether packages were already installed
+    --gui             Show gui diagnostics even when driven by commandline
+-k, --keep_isos       Cache isos (allows later installation without disc)
+    --no-clean        Don't delete temp directories (useful during debugging)
+    --no-isolate      Don't install each app or game in its own bottle
+-q, --unattended      Don't ask any questions, just install automatically
+-r, --ddrescue        Retry hard when caching scratched discs
+    --showbroken      Even show verbs that are currently broken in wine
+    --verify          Run (automated) GUI tests for verbs, if available
+-v, --verbose         Echo all commands as they are executed
+-h, --help            Display this message and exit
+-V, --version         Display version and exit
+
+Commands:
+list                  list categories
+list-all              list all categories and their verbs
+apps list             list verbs in category 'applications'
+benchmarks list       list verbs in category 'benchmarks'
+dlls list             list verbs in category 'dlls'
+games list            list verbs in category 'games'
+settings list         list verbs in category 'settings'
+list-cached           list cached-and-ready-to-install verbs
+list-download         list verbs which download automatically
+list-manual-download  list verbs which download with some help from the user
+list-installed        list already-installed verbs
+prefix=foobar         select WINEPREFIX=/home/jdetke/.local/share/wineprefixes/foobar
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winetricks  -h[K[Klist
+
+^N  ^Z
+[1]+  Stopped                 winetricks list
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ jobs
+[1]+  Stopped                 winetricks list
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ kill &[K&^[K[K^[K&[K*[K%1
+
+[1]+  Stopped                 winetricks list
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ jobs
+[1]+  Terminated              winetricks list
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winecfg 
+
+
+
+
+
+^Z
+[1]+  Stopped                 winecfg
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ kill ^[K^[K%1
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ kill %1winecfg [4Pjobskill %1[3Pjobswinetricks  list[2P-h-listhistory|egrep winetr[Kvim wine.install [1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo apt-get install wine-gecko
+[sudo] password for jdetke: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+Note, selecting 'wine-gecko2.21' instead of 'wine-gecko'
+The following packages were automatically installed and are no longer required:
+  ca-certificates-java collectd-core default-jre-headless gyp java-common libapr1 libconfuse-common libconfuse0 libdbi1
+  libdevmapper-event1.02.1 libesmtp6 libftdi1 libganglia1 libhiredis0.13 libjs-inherits libjs-node-uuid libjs-underscore
+  libllvm4.0 liblvm2app2.2 libmemcached11 libmodbus5 libopenipmi0 liboping0 libow-3.1-1 libowcapi-3.1-1 libprotobuf-c1
+  librabbitmq4 librdkafka1 librrd4 libserialport0 libsigrok2 libssl-dev libssl-doc libtokyocabinet9 libtokyotyrant3
+  libupsclient4 libuv1 libuv1-dev libvarnishapi1 libvirt0 libxen-4.6 libxenstore3.0 libzip4 linux-headers-4.4.0-101
+  linux-headers-4.4.0-101-generic linux-headers-4.4.0-103 linux-headers-4.4.0-103-generic linux-headers-4.4.0-104
+  linux-headers-4.4.0-104-generic linux-headers-4.4.0-109 linux-headers-4.4.0-109-generic linux-headers-4.4.0-97
+  linux-headers-4.4.0-97-generic linux-headers-4.4.0-98 linux-headers-4.4.0-98-generic linux-image-4.4.0-101-generic
+  linux-image-4.4.0-103-generic linux-image-4.4.0-104-generic linux-image-4.4.0-109-generic linux-image-4.4.0-97-generic
+  linux-image-4.4.0-98-generic linux-image-extra-4.4.0-101-generic linux-image-extra-4.4.0-103-generic
+  linux-image-extra-4.4.0-104-generic linux-image-extra-4.4.0-109-generic linux-image-extra-4.4.0-97-generic
+  linux-image-extra-4.4.0-98-generic node-abbrev node-ansi node-ansi-color-table node-archy node-async node-block-stream
+  node-combined-stream node-cookie-jar node-delayed-stream node-forever-agent node-form-data node-fstream node-fstream-ignore
+  node-github-url-from-git node-glob node-graceful-fs node-gyp node-inherits node-ini node-json-stringify-safe node-lockfile
+  node-lru-cache node-mime node-minimatch node-mkdirp node-mute-stream node-node-uuid node-nopt node-normalize-package-data
+  node-npmlog node-once node-osenv node-qs node-read node-read-package-json node-request node-retry node-rimraf node-semver
+  node-sha node-sigmund node-slide node-tar node-tunnel-agent node-underscore node-which openjdk-8-jre-headless owfs-common
+  rrdtool zlib1g-dev
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  wine-gecko2.21
+0 upgraded, 1 newly installed, 0 to remove and 83 not upgraded.
+Need to get 21.5 MB of archives.
+After this operation, 21.7 MB of additional disk space will be used.
+0% [Working]            Get:1 http://us.archive.ubuntu.com/ubuntu xenial/multiverse amd64 wine-gecko2.21 amd64 2.21-0ubuntu1 [21.5 MB]
+0% [1 wine-gecko2.21 2,609 B/21.5 MB 0%]                                        3% [1 wine-gecko2.21 711 kB/21.5 MB 3%]13% [1 wine-gecko2.21 3,495 kB/21.5 MB 16%]y25% [1 wine-gecko2.21 6,662 kB/21.5 MB 31%]
+35% [1 wine-gecko2.21 9,351 kB/21.5 MB 44%]                                           42% [1 wine-gecko2.21 11.3 MB/21.5 MB 53%]51% [1 wine-gecko2.21 13.8 MB/21.5 MB 64%]55% [1 wine-gecko2.21 14.7 MB/21.5 MB 68%]58% [1 wine-gecko2.21 15.6 MB/21.5 MB 73%]63% [1 wine-gecko2.21 16.9 MB/21.5 MB 79%]70% [1 wine-gecko2.21 18.7 MB/21.5 MB 87%]76% [1 wine-gecko2.21 20.5 MB/21.5 MB 95%]                                          100% [Working]              Fetched 21.5 MB in 5s (3,597 kB/s)
+Selecting previously unselected package wine-gecko2.21:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 432628 files and directories currently installed.)
+Preparing to unpack .../wine-gecko2.21_2.21-0ubuntu1_amd64.deb ...
+Unpacking wine-gecko2.21:amd64 (2.21-0ubuntu1) ...
+Setting up wine-gecko2.21:amd64 (2.21-0ubuntu1) ...
+[1]+  Terminated              winecfg
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ sudo apt-get install wine-gecko
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+Note, selecting 'wine-gecko2.21' instead of 'wine-gecko'
+wine-gecko2.21 is already the newest version (2.21-0ubuntu1).
+The following packages were automatically installed and are no longer required:
+  ca-certificates-java collectd-core default-jre-headless gyp java-common libapr1 libconfuse-common libconfuse0 libdbi1
+  libdevmapper-event1.02.1 libesmtp6 libftdi1 libganglia1 libhiredis0.13 libjs-inherits libjs-node-uuid libjs-underscore
+  libllvm4.0 liblvm2app2.2 libmemcached11 libmodbus5 libopenipmi0 liboping0 libow-3.1-1 libowcapi-3.1-1 libprotobuf-c1
+  librabbitmq4 librdkafka1 librrd4 libserialport0 libsigrok2 libssl-dev libssl-doc libtokyocabinet9 libtokyotyrant3
+  libupsclient4 libuv1 libuv1-dev libvarnishapi1 libvirt0 libxen-4.6 libxenstore3.0 libzip4 linux-headers-4.4.0-101
+  linux-headers-4.4.0-101-generic linux-headers-4.4.0-103 linux-headers-4.4.0-103-generic linux-headers-4.4.0-104
+  linux-headers-4.4.0-104-generic linux-headers-4.4.0-109 linux-headers-4.4.0-109-generic linux-headers-4.4.0-97
+  linux-headers-4.4.0-97-generic linux-headers-4.4.0-98 linux-headers-4.4.0-98-generic linux-image-4.4.0-101-generic
+  linux-image-4.4.0-103-generic linux-image-4.4.0-104-generic linux-image-4.4.0-109-generic linux-image-4.4.0-97-generic
+  linux-image-4.4.0-98-generic linux-image-extra-4.4.0-101-generic linux-image-extra-4.4.0-103-generic
+  linux-image-extra-4.4.0-104-generic linux-image-extra-4.4.0-109-generic linux-image-extra-4.4.0-97-generic
+  linux-image-extra-4.4.0-98-generic node-abbrev node-ansi node-ansi-color-table node-archy node-async node-block-stream
+  node-combined-stream node-cookie-jar node-delayed-stream node-forever-agent node-form-data node-fstream node-fstream-ignore
+  node-github-url-from-git node-glob node-graceful-fs node-gyp node-inherits node-ini node-json-stringify-safe node-lockfile
+  node-lru-cache node-mime node-minimatch node-mkdirp node-mute-stream node-node-uuid node-nopt node-normalize-package-data
+  node-npmlog node-once node-osenv node-qs node-read node-read-package-json node-request node-retry node-rimraf node-semver
+  node-sha node-sigmund node-slide node-tar node-tunnel-agent node-underscore node-which openjdk-8-jre-headless owfs-common
+  rrdtool zlib1g-dev
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 83 not upgraded.
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winecfg
+[?1h=[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winetricks  mfc42
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+Executing w_do_call mfc42
+Executing load_mfc42
+Executing mkdir -p /home/jdetke/.cache/winetricks/vcrun6
+Downloading http://download.microsoft.com/download/vc60pro/Update/2/W9XNT4/EN-US/VC6RedistSetup_deu.exe to /home/jdetke/.cache/winetricks/vcrun6
+--2018-02-21 18:03:59--  http://download.microsoft.com/download/vc60pro/Update/2/W9XNT4/EN-US/VC6RedistSetup_deu.exe
+Resolving download.microsoft.com (download.microsoft.com)... 23.197.96.64, 2001:559:19:6090::e59, 2001:559:19:608d::e59, ...
+Connecting to download.microsoft.com (download.microsoft.com)|23.197.96.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1837888 (1.8M) [application/octet-stream]
+Saving to: ‘VC6RedistSetup_deu.exe’
+
+VC6RedistSetup_deu.exe             0%[                                                        ]       0  --.-KB/s               VC6RedistSetup_deu.exe             0%[                                                        ]   8.00K  10.2KB/s               VC6RedistSetup_deu.exe             2%[>                                                       ]  38.76K  26.9KB/s               VC6RedistSetup_deu.exe             6%[==>                                                     ] 111.37K  65.6KB/s               VC6RedistSetup_deu.exe             7%[===>                                                    ] 139.65K  71.8KB/s               VC6RedistSetup_deu.exe            10%[====>                                                   ] 180.17K  83.8KB/s               VC6RedistSetup_deu.exe            11%[=====>                                                  ] 210.19K  86.9KB/s               VC6RedistSetup_deu.exe            13%[======>                                                 ] 241.30K  87.5KB/s               VC6RedistSetup_deu.exe            15%[=======>                                                ] 278.07K  92.2KB/s    eta 16s    VC6RedistSetup_deu.exe            18%[=========>                                              ] 328.98K   100KB/s    eta 16s    VC6RedistSetup_deu.exe            22%[===========>                                            ] 397.90K   114KB/s    eta 16s    VC6RedistSetup_deu.exe            34%[==================>                                     ] 622.74K   169KB/s    eta 16s    VC6RedistSetup_deu.exe            54%[=============================>                          ] 984.70K   253KB/s    eta 16s    VC6RedistSetup_deu.exe            75%[=========================================>              ]   1.32M   330KB/s    eta 1s     VC6RedistSetup_deu.exe            97%[=====================================================>  ]   1.70M   406KB/s    eta 1s     VC6RedistSetup_deu.exe           100%[=======================================================>]   1.75M   415KB/s    in 4.3s    
+
+2018-02-21 18:04:05 (415 KB/s) - ‘VC6RedistSetup_deu.exe’ saved [1837888/1837888]
+
+Executing wine /home/jdetke/.cache/winetricks/vcrun6/vc6redistsetup_deu.exe /T:C:\windows\Temp\_mfc42 /c
+[?1h=[?1l>Executing cabextract -q /home/jdetke/.cache/winetricks/vcrun6/vcredist.exe -d /home/jdetke/.wine/dosdevices/c:/windows/syswow64 -F mfc42*.dll
+You opted in, so reporting 'mfc42 ' to the winetricks maintainer so he knows which winetricks verbs get used and which don't.  Use --optout to disable future reports.
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ winetricks  mfc42[K[K[K[K[K[Kdotnet40
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+Executing w_do_call dotnet40
+Executing load_dotnet40
+------------------------------------------------------
+This package does not work on a 64-bit installation
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe 
+[?1h=0009:fixme:shell:SHAutoComplete stub
+0009:fixme:shell:SHAutoComplete stub
+0030:fixme:heap:RtlSetHeapInformation (nil) 1 (nil) 0 stub
+0030:fixme:clusapi:OpenCluster ((null)) stub!
+0030:fixme:clusapi:ClusterOpenEnum (0xdeadbeef, 4) stub!
+0030:fixme:clusapi:ClusterEnum (0xdeadbeef, 0, 0x33f8b0, 0x13ae50, 261) stub!
+0030:fixme:clusapi:ClusterCloseEnum (0xdeadbeef) stub!
+0030:fixme:clusapi:CloseCluster (0xdeadbeef) stub!
+0030:fixme:advapi:DecryptFileW (L"C:\\2e312cdd0830ee0de3187811e7cccb\\", 00000000): stub
+0036:err:winediag:SECUR32_initNTLMSP ntlm_auth was not found or is outdated. Make sure that ntlm_auth >= 3.0.25 is in your path. Usually, you can find it in the winbind package of your distribution.
+0036:fixme:ntdll:EtwRegisterTraceGuidsW (0x6cd15f38, 0x6cd20180, {e2821408-c59d-418f-ad3f-aa4e792aeb79}, 1, 0x33fa30, (null), (null), 0x6cd20188): stub
+0036:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {e2821408-c59d-418f-ad3f-aa4e792aeb79}
+0036:fixme:heap:RtlSetHeapInformation (nil) 1 (nil) 0 stub
+0036:fixme:heap:RtlSetHeapInformation (nil) 1 (nil) 0 stub
+0036:fixme:thread:SetThreadStackGuarantee (0x33fbb8): stub
+0036:fixme:advapi:LsaOpenPolicy ((null),0x33f49c,0x00000001,0x33f490) stub
+0036:fixme:advapi:LsaClose (0xcafe) stub
+0036:fixme:msxml:domdoc_putref_schemas (0x1bc590)->(0x33f3f0 {VT_DISPATCH: 0x1bc654}): semi-stub
+0036:fixme:msxml:domdoc_get_readyState stub! (0x1bc590)->(0x33f3d8)
+0037:fixme:advapi:LsaOpenPolicy ((null),0xdad81c,0x00000001,0xdad810) stub
+0037:fixme:advapi:LsaClose (0xcafe) stub
+0040:fixme:ole:CoInitializeSecurity ((nil),-1,(nil),(nil),1,3,(nil),0,(nil)) - stub!
+0045:fixme:heap:RtlSetHeapInformation (nil) 1 (nil) 0 stub
+0045:fixme:heap:RtlSetHeapInformation (nil) 1 (nil) 0 stub
+0045:fixme:wuapi:automatic_updates_Pause 
+004a:fixme:qmgr:BackgroundCopyJob_AddFileSet Check for valid filenames and supported protocols
+0037:fixme:advapi:ControlTraceW (0, (null), 0xda6d8c, 1) stub
+0049:fixme:qmgr:BackgroundCopyJob_AddFileSet Check for valid filenames and supported protocols
+004a:fixme:qmgr:BackgroundCopyJob_SetPriority (0x3d6a0)->(0): stub
+0049:fixme:qmgr:BackgroundCopyJob_SetNoProgressTimeout (0x3d6a0)->(120): stub
+0037:err:ole:marshal_object Failed to create an IRpcStubBuffer from IPSFactory for {659cdeac-489e-11d9-a9cd-000d56965251} with error 0x80004002
+004a:err:ole:ClientIdentity_QueryMultipleInterfaces IRemUnknown_RemQueryInterface failed with error 0x80004002
+
+
+
+
+^Z
+[1]+  Stopped                 wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ kill ^[K&[K^[K%1
+
+[1]+  Stopped                 wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ kill %1wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctricks dotnet40[K0040:err:ole:CoReleaseMarshalData IMarshal::ReleaseMarshalData failed with error 0x8001011d
+0040:err:ole:ifproxy_release_public_refs IRemUnknown_RemRelease failed with error 0x800706be
+0040:err:ole:ifproxy_release_public_refs IRemUnknown_RemRelease failed with error 0x800706be
+
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+Executing w_do_call dotnet40
+Executing load_dotnet40
+------------------------------------------------------
+This package does not work on a 64-bit installation
+------------------------------------------------------
+[1]+  Terminated              wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Projects/N1MMjdetke@jdetke-ThinkPad-T430s:~/Projects/N1MM$ cd
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ pwd
+/home/jdetke
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ rm -r[K[K[K[K[Kls -alr .wine/
+total 2284
+-rw-rw-r--  1 jdetke jdetke       6 Feb 21 18:04 winetricks.log
+-rw-rw-r--  1 jdetke jdetke   47110 Feb 21 18:06 user.reg
+-rw-rw-r--  1 jdetke jdetke    3280 Feb 21 17:57 userdef.reg
+-rw-rw-r--  1 jdetke jdetke      11 Feb 21 17:56 .update-timestamp
+-rw-rw-r--  1 jdetke jdetke 2259356 Feb 21 18:06 system.reg
+drwxrwxr-x  8 jdetke jdetke    4096 Feb 21 18:05 [0m[01;34mdrive_c[0m
+drwxrwxr-x  2 jdetke jdetke    4096 Feb 21 18:06 [01;34mdosdevices[0m
+drwxr-xr-x 80 jdetke jdetke    4096 Feb 21 17:58 [01;34m..[0m
+drwxrwxr-x  4 jdetke jdetke    4096 Feb 21 18:06 [01;34m.[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ mv .wine/ .wine.1
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ his[K[K[Kmv wi[K[K.wine.1/ .wine.1/[K[K[K-64
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ history
+ 1024  vim server.js 
+ 1025  node server.js 
+ 1026  vim server.js 
+ 1027  node server.js 
+ 1028  vim server.js 
+ 1029  node server.js 
+ 1030  vim server.js 
+ 1031  node server.js 
+ 1032  vim server.js 
+ 1033  node server.js 
+ 1034  vim server.js 
+ 1035  node server.js 
+ 1036  vim server.js 
+ 1037  node server.js 
+ 1038  pwd
+ 1039  ls
+ 1040  history|egrep docker |egrep build
+ 1041  docker build -t hello-world . 
+ 1042  history|egrep docker
+ 1043  history|egrep docker|egrep run
+ 1044  docker run -d -p 4001:4000 hello-world
+ 1045  docker ps -a 
+ 1046  docker stop 3dc605dc1105
+ 1047  docker rmi
+ 1048  docker rmi all
+ 1049  docker rmi 3dc605dc1105
+ 1050  docker ps -a 
+ 1051  docker ps -a |awk  '{print $2}'
+ 1052  docker rmi `docker ps -a |awk  '{print $2}'1
+ 1053  docker rmi `docker ps -a | awk  '{print $2}' `
+ 1054  docker ps -i
+ 1055  docker ps -a
+ 1056  docker help
+ 1057  docker rm `docker ps -a | awk  '{print $1}' `
+ 1058  docker ps -a
+ 1059  docker help
+ 1060  docker images
+ 1061  docker rmi `docker images|awk '{print $3}' `
+ 1062  docker images
+ 1063  docker build -t hello-world . 
+ 1064  docker run -d -p 4001:4000 hello-world
+ 1065  pwd
+ 1066  cd Projects/
+ 1067  ls
+ 1068  cd docker/
+ 1069  ls
+ 1070  docker version
+ 1071  cat /etc/*release*
+ 1072  sudo apt-get remove docker docker-engine docker.io
+ 1073  cat /etc/*release*
+ 1074  sudo apt-get update
+ 1075  script
+ 1076  pwd
+ 1077  mkdir node.hellworld
+ 1078  cd node.hellworld/
+ 1079  vim Dockerfile
+ 1080  docker build -t hello-world .
+ 1081  sudo docker build -t hello-world .
+ 1082  sudo usermod -a -G docker jdetke
+ 1083  docker build -t hello-world .
+ 1084  groups
+ 1085  bash
+ 1086  groups
+ 1087  egrep jdetke /etc/group
+ 1088  newgrp docker
+ 1089  pwd
+ 1090  cd Projects/
+ 1091  ls
+ 1092  ls -altr
+ 1093  cd docker/
+ 1094  ls -altr
+ 1095  cd node.hellworld/
+ 1096  ls
+ 1097  cd docker-node-hello-world/
+ 1098  ls
+ 1099  docker ps -a
+ 1100  docker start hello-world
+ 1101  docker start ab1df852c4e2
+ 1102  docker ps -a
+ 1103  docker stop ab1df852c4e2
+ 1104  history|egrep run
+ 1105  docker run -d -p 4001:4000 hello-world
+ 1106  ssh panix5.panix.com
+ 1107  clear
+ 1108  sudo apt-get install collectd
+ 1109  ps -ef|egrep collect
+ 1110  sudo lsof -in
+ 1111  sudo lsof -i -n
+ 1112  man collectd
+ 1113  sudo /sbin/sysctl  status
+ 1114  sudo /sbin/sysctl  collectd
+ 1115  ls /etc/init.d/collectd 
+ 1116  more /etc/init.d/collectd
+ 1117  more /etc/init.d/collectd status
+ 1118  status
+ 1119  sudo lsof -i -n
+ 1120  man collectd
+ 1121  more /etc/init.d/collectd stop
+ 1122  /etc/init.d/collectd stop
+ 1123  more /etc/init.d/collectd status
+ 1124  more /etc/init.d/collectd statu 
+ 1125  statu
+ 1126  sudo apt-get install telegraf
+ 1127  sudo apt-get remove collectd
+ 1128  ps -ef|egrep telegra
+ 1129  sudo apt-get install telegraf
+ 1130  curl -sL https://repos.influxdata.com/influxdb.key |sudo apt-key add - 
+ 1131  source /etc/lsb-release 
+ 1132  echo "deb https://repos.influxdata.com/${DISTRIB_ID,,} ${DISTRIB_CODENAME} stable" | sudo tee /etc/apt/sources.list.d/influxdb.list
+ 1133  sudo apt-get update
+ 1134  sudo apt-get install telegraf
+ 1135  ps -ef|egrep teleg
+ 1136  sudo lsof -i -n 
+ 1137  systemctl status telegraf
+ 1138  sudo apt-get install influxdb
+ 1139  systemctl status influxdb
+ 1140  systemctl start influxdb
+ 1141  systemctl status telegraf
+ 1142  systemctl status influxdb
+ 1143  influx
+ 1144  sudo vim /etc/influxdb/influxdb.conf 
+ 1145  sudo systemctl restart influxdb
+ 1146  vim /etc/telegraf/telegraf.conf 
+ 1147  sudo diff /etc/telegraf/telegraf.conf /tmp/foo
+ 1148  sudo cp /tmp/foo /etc/telegraf/telegraf.conf 
+ 1149  sudo systemctl restart telegraf
+ 1150  sudo systemctl status telegraf
+ 1151  influx -username jdetke -password 'admin'
+ 1152  sudo apt-get install kapacitor
+ 1153  sudo vim /etc/kapacitor/kapacitor.conf 
+ 1154  sudo systemctl resstart kapacitor
+ 1155  sudo systemctl restart kapacitor
+ 1156  kapacitor list tasks
+ 1157  sudo apt-get install grafana
+ 1158  grafana
+ 1159  ps -ef|egrep grafana
+ 1160  sudo lsof -i -n |egrep graf
+ 1161  sudo service grafana-server status
+ 1162  influx -username jdetke -password 'admin'
+ 1163  sudo apt-get install chronograf
+ 1164  sudo systemctl start chronograf
+ 1165  nptdate
+ 1166  ntpstat
+ 1167  sudo apt install ntpstat
+ 1168  ntpstat
+ 1169  ps -ef|egrep ntp
+ 1170  cat /etc/*release*
+ 1171  timedatectl
+ 1172  echo `timedatectl`
+ 1173  cd Projects/
+ 1174  ls
+ 1175  mkdir Golang
+ 1176  cd Golang/
+ 1177  which go
+ 1178  go -v
+ 1179  vim hello-world.go
+ 1180  go run hello-world.go 
+ 1181  go build hello-world.go 
+ 1182  ls
+ 1183  ./hello-world 
+ 1184  df
+ 1185  cd
+ 1186  cd docs/
+ 1187  ls
+ 1188  cd Usenix/
+ 1189  ls
+ 1190  ls /media/jdetke/1009-4D9B/
+ 1191  rcp -rp /media/jdetke/1009-4D9B/LISA17 .
+ 1192  cd
+ 1193  df
+ 1194  pwd
+ 1195  cd docs/Usenix/
+ 1196  du -skh *
+ 1197  cd
+ 1198  pwd\\\]\]\]\]
+ 1199  kubectl run -i --tty busybox --image=busybox --restart=Never -- sh
+ 1200  sudo opt-get install kubectl
+ 1201  sudo apt-get install kubectl
+ 1202  ssh panix5.panix.com
+ 1203  ssh panix.com
+ 1204  cd Downloads/
+ 1205  ls -altr
+ 1206  unzip bonamassa-christmas-2017-album.zip 
+ 1207  ls
+ 1208  ls mp3*
+ 1209  ls *mp3
+ 1210  ls -ld *mp3
+ 1211  ls -latr
+ 1212  mkdir ~/Music/bonamassa-christmas-2017
+ 1213  mv bonamassa-christmas-2017-album.zip *mp3 ~/Music/bonamassa-christmas-2017
+ 1214  cd ~/Music/bonamassa-christmas-2017
+ 1215  cd
+ 1216  cd Downloads/
+ 1217  ls -altr
+ 1218  ls jdetke*
+ 1219  mv jdetke*CV* jdetke-CV.pdf
+ 1220  ls -altr
+ 1221  mv Fastly\ Senior\ Incident\ Cover\ letter.pdf  Fastly.Senior.Incident.pdf
+ 1222  ls -altr
+ 1223  htop
+ 1224  ssh panix5.panix.com
+ 1225  cat /etc/*release*
+ 1226  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+ 1227  sudo apt-get install nodejs
+ 1228  sudo apt-get update
+ 1229  sudo apt-get upgrade
+ 1230  ntpdate
+ 1231  apt-get install build-essential
+ 1232  sudo apt-get install build-essential
+ 1233  sudo apt-get install curl
+ 1234  sudo apt-get install nodejs
+ 1235  sudo apt-get install git
+ 1236  cat /etc/udev/rules.d/60-ed-persistent-serial.rules 
+ 1237  cat /etc/udev/rules.d/
+ 1238  ls /etc/udev/rules.d/
+ 1239  pwd
+ 1240  cd Projects/
+ 1241  mkdir wizkers
+ 1242  cd wizkers/
+ 1243  git clone https://github.com/wizkers/wizkers.git
+ 1244  cd wizkers/wizkers/
+ 1245  pwd
+ 1246  ls
+ 1247  sudo npm install -g gulp-cli
+ 1248  npm install
+ 1249  sudo npm install
+ 1250  npm install
+ 1251  ls /home/jdetke/.config/
+ 1252  ls -ld /home/jdetke/.config/
+ 1253  npm update check
+ 1254  ls -ld /home/jdetke/.config/
+ 1255  ls -ld /home/jdetke/.config/*
+ 1256  ls -ld /home/jdetke/.config/configstore/
+ 1257  sudo chown jdetke /home/jdetke/.config/configstore/
+ 1258  ls -l /home/jdetke/.config/configstore/
+ 1259  sudo chown jdetke /home/jdetke/.config/configstore/
+ 1260  sudo chown jdetke /home/jdetke/.config/configstore/update-notifier-npm.json 
+ 1261  ls -l /home/jdetke/.config/configstore/
+ 1262  npm update check
+ 1263  npm install
+ 1264  OEM=radio gulp server
+ 1265  ls dist/
+ 1266  ls dist/server/
+ 1267  cd dist/server/
+ 1268  ./start_server.sh 
+ 1269  cd Projects/wizkers/
+ 1270  ls
+ 1271  cd wizkers/
+ 1272  ls
+ 1273  cd wizkers/
+ 1274  ls
+ 1275  cd server/
+ 1276  ls
+ 1277  ls utils
+ 1278  cd ..
+ 1279  ls
+ 1280  OEM=radio gulp server
+ 1281  find * -name \*jvm
+ 1282  ls dist
+ 1283  ls dist/server/
+ 1284  cd dist/server/
+ 1285  ls
+ 1286  ./start_server.sh 
+ 1287  cd Projects/
+ 1288  mkdir icloud
+ 1289  cd icloud/
+ 1290  git clone https://github.com/ndbroadbent/icloud_photos_downloader.git
+ 1291  cd icloud_photos_downloader/
+ 1292  ls
+ 1293  sud pip install -r requirements.txt 
+ 1294  sudo pip install -r requirements.txt 
+ 1295  which pip
+ 1296  sudo apt-get pip
+ 1297  sudo apt-get install pip
+ 1298  sudo apt-get install python
+ 1299  which pip
+ 1300  ls
+ 1301  more requirements.txt 
+ 1302  sudo apt-get install python-pip
+ 1303  sudo pip install -r requirements.txt 
+ 1304  ./download_photos.py  --username=jdetke@groupon.com
+ 1305  mkdir Photos
+ 1306  ./download_photos.py ./Photos   --username=jdetke@groupon.com
+ 1307  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple
+ 1308  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple --size=original 
+ 1309  clear
+ 1310  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple --size=original 
+ 1311  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=fooApple  
+ 1312  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=f00Apple  
+ 1313  pwd
+ 1314  df
+ 1315  du -skh .
+ 1316  df .
+ 1317  df -h .
+ 1318  pwd
+ 1319  ./download_photos.py ./Photos   --username=jdetke@groupon.com --password=f00Apple  
+ 1320  ./download_photos.py ./Photos  --download_videos  --username=jdetke@groupon.com --password=f00Apple  
+ 1321  ./download_photos.py ./Photos  --download-videos  --username=jdetke@groupon.com --password=f00Apple  
+ 1322  df
+ 1323  cd /media/jdetke/4C61-E1D1/
+ 1324  ls
+ 1325  rm SanDiskSecureAccessV2*
+ 1326  rm -rf SanDiskSecureAccessV2.0*
+ 1327  ls
+ 1328  rm Back\ Up\ Your\ Files\ to\ the\ Cloud.pdf 
+ 1329  df .
+ 1330  ls -l jdetke/
+ 1331  ls
+ 1332  ls -altr
+ 1333  mv jdetke/ jdetke.dec.2016
+ 1334  cd jdetke.dec.2016/
+ 1335  ls
+ 1336  LS -LCl
+ 1337  LS -L 
+ 1338  ls vx7.img 
+ 1339  ls -l vx7.img 
+ 1340  ls -altr
+ 1341  rm vx7.img 
+ 1342  df.
+ 1343  du -sk *|sort -n 
+ 1344  ls Downloads/
+ 1345  cd Downloads/
+ 1346  ls
+ 1347  du -sk *|sort -n 
+ 1348  rm AdwareMedic.dmg 
+ 1349  ls Ottmar\ Liebert/
+ 1350  rm -rf Ottmar\ Liebert/
+ 1351  df .
+ 1352  cd 
+ 1353  ls
+ 1354  du -sk *|sort -n 
+ 1355  ls Projects/
+ 1356  cd Desktop/
+ 1357  ls
+ 1358  rm -rf Beetlejuice\ \(1988\).mp4  
+ 1359  df .
+ 1360  pwd
+ 1361  cd
+ 1362  ls
+ 1363  df
+ 1364  cd /media/jdetke/
+ 1365  df .
+ 1366  ls
+ 1367  cd 4C61-E1D1/
+ 1368  ls
+ 1369  alias|egrep rsync
+ 1370  pwd
+ 1371  cd /home
+ 1372  rsync -avzh jdetke /media/jdetke/4C61-E1D1/
+ 1373  df
+ 1374  ls
+ 1375  pwd
+ 1376  cd /media/jdetke/4C61-E1D1/
+ 1377  ls
+ 1378  rm -rf jdetke
+ 1379  pwd
+ 1380  ls
+ 1381  ls jdetke.dec.2016/.mozilla/
+ 1382  rm -rf jdetke.dec.2016/.mozilla/
+ 1383  ls
+ 1384  df .
+ 1385  ls
+ 1386  df .
+ 1387  du -skh *
+ 1388  pwd
+ 1389  cd jdetke.dec.2016/
+ 1390  ls
+ 1391  df .
+ 1392  du -sk *|sort -n 
+ 1393  du -sk . 
+ 1394  tar tvf kk.tar 
+ 1395  pwd
+ 1396  ls
+ 1397  du -sk . 
+ 1398  df .
+ 1399  df /home
+ 1400  df
+ 1401  pwd
+ 1402  ls
+ 1403  du -skh /home/jdetke/
+ 1404  df .
+ 1405  df -h .
+ 1406  cd
+ 1407  cd /media/jdetke/NO\ NAME/
+ 1408  ls
+ 1409  ls -latr
+ 1410  mv jdetke/ jdetke.nov.2016
+ 1411  pwd
+ 1412  ls
+ 1413  touch foobar
+ 1414  df .
+ 1415  ls
+ 1416  ls -lR
+ 1417  pwd
+ 1418  df
+ 1419  mount
+ 1420  exit
+ 1421  mount
+ 1422  mount|egrep sdb
+ 1423  exit
+ 1424  man rsync
+ 1425  pwd
+ 1426  cd
+ 1427  df
+ 1428  while :; do df |egrep media;sleep 10;done
+ 1429  exit
+ 1430  df
+ 1431  df -h 
+ 1432  pwd
+ 1433  du -skh .
+ 1434  ls /media/jdetke/
+ 1435  ls /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1436  du -sk *|sort -n 
+ 1437  ls Downloads/
+ 1438  cd Downloads/
+ 1439  ls -s |sort -n 
+ 1440  rm -rf zoom_amd64.deb 
+ 1441  rm -rf clonezilla-live-20161121-yakkety-amd64.zip 
+ 1442  df .
+ 1443  cd
+ 1444  pwd
+ 1445  ls
+ 1446  cd /home
+ 1447  df /tmp
+ 1448  df -h /tmp
+ 1449  ls
+ 1450  PWD
+ 1451  pwd
+ 1452  ls
+ 1453  ls -altr
+ 1454  ls
+ 1455  ls -l Ghost-Story-A-Novel-of-the-Dresden-Files.azw 
+ 1456  rm -rf Ghost-Story-A-Novel-of-the-Dresden-Files.azw 
+ 1457  ls ISOs/
+ 1458  sudo ls ISOs/
+ 1459  ls
+ 1460  pwd
+ 1461  cd jdetke/
+ 1462  ls
+ 1463  ls ../Downloads/
+ 1464  sudo ls ../Downloads/
+ 1465  ls
+ 1466  rm parkflynsave.xmas.2014 
+ 1467  sudo du -skh .
+ 1468  ls /tmp
+ 1469  df /tmp
+ 1470  cd /home
+ 1471  tar zcvf /tmp/foo.tgz jdetke 
+ 1472  ls -latr /tmp
+ 1473  ls -s /tmp/foo.tgz 
+ 1474  ls -sh /tmp/foo.tgz
+ 1475  df
+ 1476  df -h /
+ 1477  cd /media/jdetke/4C61-E1D1/
+ 1478  df -h .
+ 1479  pwd
+ 1480  ls
+ 1481  ls jdetke.dec.2016/
+ 1482  rsync -avz /home/jdetke jdetke.dec.2016/
+ 1483  rsync -avz /home/jdetke/ jdetke.dec.2016/
+ 1484  pwd
+ 1485  rsync -h 
+ 1486  rsync -h |egrep skip
+ 1487  cd jdetke.dec.2016/
+ 1488  ls
+ 1489  ls -altr
+ 1490  pwd
+ 1491  cd jdetke/
+ 1492  ls
+ 1493  ls -altr
+ 1494  cd ..
+ 1495  ls -altr
+ 1496  rm -rf jdetke/
+ 1497  rm -rf .cache/
+ 1498  df
+ 1499  df -h 
+ 1500  ls
+ 1501  ls -altr
+ 1502  ls .compiz/
+ 1503  sudo du -sk *
+ 1504  sudo du -sk *|sort -n 
+ 1505  rm -rf CrashPlan-install/
+ 1506  tar tvf kk.tar 
+ 1507  gzip kk.tar 
+ 1508  ls
+ 1509  mv kk.tar.gz Projects/
+ 1510  ls translog.20140706122617.log 
+ 1511  more translog.20140706122617.log
+ 1512  rm  translog.20140706122617.log 
+ 1513  pwd
+ 1514  ls
+ 1515  du -skh *
+ 1516  du -sk *|sort -n 
+ 1517  ls Downloads/
+ 1518  cd Downloads/
+ 1519  ls *1*
+ 1520  pwd
+ 1521  ls snow*
+ 1522  ls
+ 1523  ls */snow*
+ 1524  rm -rf */snowcamp*
+ 1525  pwd
+ 1526  ls
+ 1527  df
+ 1528  df -h
+ 1529  du -skh ~/Pictures/
+ 1530  pwd
+ 1531  ls
+ 1532  du -skh /home/jdetke/
+ 1533  ls
+ 1534  du -skh /home/jdetke/.cache/
+ 1535  du -skh /home/jdetke/.mozilla/
+ 1536  CD
+ 1537  VIM
+ 1538  pwd
+ 1539  cd
+ 1540  vim rsync-exclude.txt
+ 1541  sudo du -sk .??* |sort -n 
+ 1542  ls .vagrant.d/
+ 1543  vim rsync-exclude.txt
+ 1544  du -sk *|sort -n 
+ 1545  df -hl
+ 1546  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1547  vim rsync-exclude.txt
+ 1548  cd /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1549  ls
+ 1550  rm -rf .macromedia/
+ 1551  rm -rf .mozilla/
+ 1552  cd
+ 1553  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1554  df
+ 1555  cd /media/jdetke/4C61-E1D1/
+ 1556  ls
+ 1557  mv jdetke.dec.2016/ jdetke
+ 1558  cd jdetke/
+ 1559  ls -altr
+ 1560  ls Videos/
+ 1561  ls Documents/
+ 1562  ls -altr
+ 1563  du -sk .??*
+ 1564  du -sk .??*|sort -n 
+ 1565  du -sk *\sort -n 
+ 1566  du -sk *|sort -n 
+ 1567  rm -rf CrashPlan-install/
+ 1568  rm -rf crashplan/
+ 1569  ls Src/
+ 1570  cd Src/
+ 1571  du -sk *|sort -n 
+ 1572  rm -rf Tomato/
+ 1573  cd ..
+ 1574  du -sk *|sort -n 
+ 1575  cd Downloads/
+ 1576  du -sk *|sort -n 
+ 1577  rm -rf Ottmar\ Liebert/ 
+ 1578  df .
+ 1579  ls
+ 1580  du -sk *|sort -n 
+ 1581  cd 
+ 1582  cd Downloads/
+ 1583  du -sk *|sort -n 
+ 1584  rm -rf Ottmar\ Liebert/
+ 1585  ls Asus/
+ 1586  pwd
+ 1587  cd
+ 1588  ls
+ 1589  du -sk *|sort -n 
+ 1590  cd Projects/
+ 1591  du -sk *|sort -n 
+ 1592  cd icloud/
+ 1593  ls
+ 1594  cd icloud_photos_downloader/
+ 1595  ls
+ 1596  du -sk .
+ 1597  du -skh .
+ 1598  pwd
+ 1599  cd
+ 1600  pwd
+ 1601  ls
+ 1602  cd Projects/icloud/icloud_photos_downloader/
+ 1603  ls
+ 1604  ls Photos/
+ 1605  df
+ 1606  df -h /media/
+ 1607  pwd
+ 1608  ls /media/jdetke/
+ 1609  ls /media/jdetke/Lexar/
+ 1610  ls /media/jdetke/Lexar/HRblock/
+ 1611  ls -l /media/jdetke/Lexar/HRblock/
+ 1612  ls -l /media/jdetke/Lexar/
+ 1613  df
+ 1614  df -hl
+ 1615  cd
+ 1616  df
+ 1617  pwd
+ 1618  ls
+ 1619  du -skh .
+ 1620  du -sk *|sort -n 
+ 1621  ls 300.moon.meadow/
+ 1622  ls -latr 300.moon.meadow/
+ 1623  pwd
+ 1624  cd 300.moon.meadow/
+ 1625  ls
+ 1626  ls -altr
+ 1627  rm -rm PICT00*
+ 1628  rm -rf PICT00*
+ 1629  df .
+ 1630  cd ..
+ 1631  ls -l 300.moon.meadow/
+ 1632  rm -rf 300.moon.meadow/
+ 1633  cd /media/jdetke/4C61-E1D1/jdetke/
+ 1634  ls
+ 1635  rm -rf 300.moon.meadow/
+ 1636  df
+ 1637  pwd
+ 1638  cd ..
+ 1639  du -sk *|sort -n 
+ 1640  pwd
+ 1641  cd
+ 1642  history|egrep rsync
+ 1643  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke.dec.2016/
+ 1644  cd /media/jdetke/4C61-E1D1/
+ 1645  ls
+ 1646  ls jdetke.dec.2016/
+ 1647  du -sk *
+ 1648  du -sk jdetke.dec.2016/
+ 1649  rm -rf jdetke.dec.2016/
+ 1650  pwd
+ 1651  cd
+ 1652  rsync -avz --exclude-from 'rsync-exclude.txt' /home/jdetke/ /media/jdetke/4C61-E1D1/jdetke/
+ 1653  df
+ 1654  pwd
+ 1655  cd ..
+ 1656  ls
+ 1657  mkdir foob
+ 1658  cp  */*pdf foob/
+ 1659  cd foob/
+ 1660  ls
+ 1661  pdftk  --help
+ 1662  man pdftk
+ 1663  exit
+ 1664  mkdir Linda
+ 1665  df
+ 1666  mkdir 2017
+ 1667  mv 2017/ 2016
+ 1668  cd 2016/
+ 1669  ls
+ 1670  cp /media/jdetke/CED4-4C12/*pdf .
+ 1671  ls
+ 1672  ls -l *
+ 1673  pwd
+ 1674  cd ..
+ 1675  mv 2016/ Linda/
+ 1676  cd Linda/2016/
+ 1677  mv jdetke.pdf jdetke-cover.pdf
+ 1678  ls -lat
+ 1679  pwd
+ 1680  PWD
+ 1681  pwd
+ 1682  mv jdetke-cover.pdf jdetke-cover-2016.pdf
+ 1683  ls
+ 1684  mv jdetke.state.pdf  jdetke.state.state.pdf
+ 1685  mv jdetke.state.state.pdf  jdetke.state.2016.pdf
+ 1686  ls
+ 1687  mv jdetke.federal.pdf  jdetke.federal.2016.pdf
+ 1688  cd ..
+ 1689  mkdir 2015
+ 1690  cd 201
+ 1691  cd 2015/
+ 1692  ;ls
+ 1693  pwd
+ 1694  df
+ 1695  cp /media/jdetke/346A-3483/jdetke.*pdf .
+ 1696  ls
+ 1697  apt-get install pdftk
+ 1698  sudo apt-get install pdftk
+ 1699  sudo apt-get install PDFChain
+ 1700  ls
+ 1701  pwd
+ 1702  cd ../foob/
+ 1703  ls
+ 1704  pdftk  jdetke-cover-2016.pdf output jdetke-cover-2016.encrypted.pdf owner_pw foobar user_pw baz
+ 1705  ls -altr
+ 1706  file jdetke-cover-2016.encrypted.pdf 
+ 1707  rm jdetke-cover-2016.encrypted.pdf
+ 1708  ls -altr
+ 1709  pdftk  jdetke-cover-2016.pdf output jdetke-cover-2016.encrypted.pdf owner_pw foobar user_pw s.splc1:36,7
+ 1710  pdftk  jdetke-cover-2016.pdf output jdetke.state.pdf jdetke.state.2015.encrypted.pdf  owner_pw foobar user_pw s.splc1:36,7
+ 1711  ls *encrypt*
+ 1712  rm *encrypt*
+ 1713  ls
+ 1714  mv jdetke.state.pdf jdetke.state.2015.pdf
+ 1715  ls 
+ 1716  ls -ltr
+ 1717  pdftk  jdetke*pdf output jdetke.encrypted.pdf  owner_pw foobar user_pw s.splc1:36,7
+ 1718  ls -latr
+ 1719  file jdetke.encrypted.pdf 
+ 1720  pdftk  jdetke*pdf output jdetke.encrypted.pdf  owner_pw f00b4rme  user_pw s.splc1:36,7
+ 1721  ls
+ 1722  rm *encrypt*
+ 1723  pdftk  jdetke*pdf output jdetke.encrypted.pdf  owner_pw f00b4rme  user_pw s.splc1:36,7
+ 1724  ls -altr
+ 1725  file jdetke.encrypted.pdf 
+ 1726  mv jdetke.encrypted.pdf  ..
+ 1727  cd ..
+ 1728  rm -rf foob/
+ 1729  pwd
+ 1730  cd Projects/icloud/
+ 1731  ls
+ 1732  ls -altr
+ 1733  ls
+ 1734  history|egrep jdetke
+ 1735  history|egrep groupon
+ 1736  vim doit
+ 1737  history|egrep groupon|tail -5 >> doit 
+ 1738  vim doit 
+ 1739  bash ./doit 
+ 1740  df
+ 1741  pwd
+ 1742  cd /media/jdetke/45CB-77ED/
+ 1743  ls
+ 1744  ls -altr
+ 1745  cd
+ 1746  df
+ 1747  cd /media/jdetke/4C61-E1D1/
+ 1748  ls
+ 1749  cd jdetke/
+ 1750  ls
+ 1751  cd Projects/icloud/
+ 1752  ls
+ 1753  cd icloud_photos_downloader/
+ 1754  ls
+ 1755  cd ph
+ 1756  cd Photos/
+ 1757  ls
+ 1758  ls /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/
+ 1759  rsyn -av /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/ .
+ 1760  rsync -av /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/ .
+ 1761  pwd
+ 1762  ls
+ 1763  ls -l 2015
+ 1764  ls -l 2016
+ 1765  ls -altr
+ 1766  cd /tmp
+ 1767  mkdir foob
+ 1768  cd foob
+ 1769  rsync -av /home/jdetke/Projects/icloud/icloud_photos_downloader/Photos/ .
+ 1770  pwd
+ 1771  ls
+ 1772  cd ..
+ 1773  ls
+ 1774  ls -altr
+ 1775  cd foob/
+ 1776  ls -altr
+ 1777  find * -name \*pdf
+ 1778  cd
+ 1779  ls -altr
+ 1780  cd Linda/
+ 1781  ls
+ 1782  file jdetke.encrypted.pdf 
+ 1783  df
+ 1784  cd /media/jdetke/987E-C561/
+ 1785  ls
+ 1786  pwd
+ 1787  df .
+ 1788  du -sk *
+ 1789  exit
+ 1790  cd Downloads/
+ 1791  ls -altr *pdf
+ 1792  cd
+ 1793  cd docs/
+ 1794  ls
+ 1795  cd ..
+ 1796  ls -altr
+ 1797  cd Documents/
+ 1798  ls -altr
+ 1799  find * -name \*pdf
+ 1800  find * -name \*res\*pdf
+ 1801  ls -l resume.pdf 
+ 1802  pwd
+ 1803  mkdir 2012 
+ 1804  pwd
+ 1805  cd
+ 1806  ls -altr
+ 1807  cd Downloads/CLSC
+ 1808  ls -ltr
+ 1809  cd Downloads/
+ 1810  ls
+ 1811  ls -ltr
+ 1812  sudo apt install glances python-bottle
+ 1813  glances -w 
+ 1814  HTOP
+ 1815  hto
+ 1816  htop
+ 1817  top
+ 1818  docker
+ 1819  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1820  docker ps
+ 1821  sudo lsof -i 
+ 1822  sudo lsof -i -N
+ 1823  sudo lsof -i -P
+ 1824  docker 
+ 1825  docker kill
+ 1826  docker kill all
+ 1827  docker ps
+ 1828  docker kill bc4c0495f3c3
+ 1829  docker ps
+ 1830  cd Projects/
+ 1831  ls 
+ 1832  mkdir traefic 
+ 1833  cd traefic/
+ 1834  git clone https://github.com/containous/traefik
+ 1835  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1836  sudo apt-get docker-compose
+ 1837  sudo apt-get install docker-compose
+ 1838  vim docker-compose.yml
+ 1839  docker-compose  up -d 
+ 1840  docker ps
+ 1841  docker kill version: '2'
+ 1842  services:
+ 1843  networks:
+ 1844  docker-compose  up -d 
+ 1845  sudo docker-compose  up -d 
+ 1846  pwd
+ 1847  cd ..
+ 1848  mv traefic/ traefik
+ 1849  cd tra
+ 1850  cd traefik/
+ 1851  ls
+ 1852  docker-compose  up -d 
+ 1853  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1854  history|egrep run
+ 1855  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1856  mv docker-compose.yml  /tmp
+ 1857  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1858  docker ps
+ 1859  docker kill 40818aa7c798
+ 1860  pwd
+ 1861  ls
+ 1862  cd ..
+ 1863  pwd
+ 1864  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1865  docker kill 40818aa7c798
+ 1866  docker ps
+ 1867  docker kill 40818aa7c798
+ 1868  docker ps
+ 1869  docker kill 0ea7eba2a3e6
+ 1870  pwd
+ 1871  cd traefik
+ 1872  ls
+ 1873  ls -l
+ 1874  more traefik.toml/
+ 1875  ls traefik.toml/
+ 1876  cd ..
+ 1877  pwd
+ 1878  mkdir foobar
+ 1879  cd foobar/
+ 1880  ls
+ 1881  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1882  ls
+ 1883  rm -rf traefik.toml/
+ 1884  ls
+ 1885  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1886  docker ps
+ 1887  docker ps -h
+ 1888  docker ps -q
+ 1889  docker kill `docker ps -q`
+ 1890  docker ps -q
+ 1891  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1892  docker attach `docker ps -q`
+ 1893  docker exec -it `docker ps -q`
+ 1894  docker exec -it `docker ps -q` bash
+ 1895  docker exec -it `docker ps -q`  bash
+ 1896  docker ps -q 
+ 1897  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1898  docker exec -it `docker ps -q`  bash
+ 1899  docker ps -q 
+ 1900  docker exec -it `docker ps -q`  date
+ 1901  docker exec -it `docker ps -q`  ls
+ 1902  docker ps -q 
+ 1903  docker exec -it `docker ps -q` bash
+ 1904  docker ps -q 
+ 1905  docker run -d -p 8080:8080 -p 80:80 -v $PWD/traefik.toml:/etc/traefik/traefik.toml traefik
+ 1906  docker ps -q 
+ 1907  docker exec -it `docker ps -q` bash
+ 1908  docker ps -q 
+ 1909  docker attach `docker ps -q`
+ 1910  dmesg
+ 1911  which chirp
+ 1912  dmesg
+ 1913  which chirp
+ 1914  chirpw 
+ 1915  dmesg
+ 1916  top
+ 1917  ps -ef|egrep chirp
+ 1918  ls /dev/tty*
+ 1919  ls -latr /dev/tty*
+ 1920  sudo chmod ugo+rw /dev/ttyUSB0 
+ 1921  ls -latr /dev/tty*
+ 1922  sudo addgroup jdetke dialout
+ 1923  cd /etc/udev/rules.d/
+ 1924  ls -l 40*
+ 1925  sudo vim 40-permissions.rules 
+ 1926  cd /etc/udev/rules.d
+ 1927  cd
+ 1928  sudo apt-get repository 
+ 1929  sudo apt-get repository   https://launchpad.net/~ubuntu-hams-updates/+archive/ppa
+ 1930  history
+ 1931  sudo add-apt-repository ppa:ubuntu-hams-updates/ppa
+ 1932  sudo apt-get update
+ 1933  sudo apt-get install fldigi
+ 1934  sudo /sbin/reboot 
+ 1935  fldigi
+ 1936  lsusb
+ 1937  chirpw &
+ 1938  pwd
+ 1939  ls -latr
+ 1940  more radioreference.csv 
+ 1941  fldigi
+ 1942  pwd
+ 1943  ls -altr
+ 1944  ls *xml
+ 1945  rm .fldigi/
+ 1946  rm -rf .fldigi/
+ 1947  fldigi  &
+ 1948  ls 
+ 1949  ls *xml
+ 1950  cd
+ 1951  ls -altr Downloads/*xml
+ 1952  cp Downloads/FT
+ 1953  fldigi
+ 1954  cd Projects/
+ 1955  ls
+ 1956  mkdir pytyon
+ 1957  mv pytyon/ python
+ 1958  cd python/
+ 1959  ls
+ 1960  python --version
+ 1961  which python
+ 1962  sudo apt-get update
+ 1963  ls ~/Downloads/google-python-exercises.zip 
+ 1964  gunzip ~/Downloads/google-python-exercises.zip
+ 1965  unzip ~/Downloads/google-python-exercises.zip
+ 1966  ls
+ 1967  cd google-python-exercises/
+ 1968  ls
+ 1969  python ./hello.py 
+ 1970  vim hello.py 
+ 1971  python
+ 1972  JEdit
+ 1973  pwd
+ 1974  python ./hello.py  John
+ 1975  python ./hello.py  April
+ 1976  python ./hello.py  April is awesome
+ 1977  python ./hello.py  April
+ 1978  cd Downloads/
+ 1979  ls -altr
+ 1980  cd ../Projects/
+ 1981  man bunzip
+ 1982  man bz
+ 1983  tar -xvj ~/Downloads/anki-2.0.47-amd64.tar.bz2 
+ 1984  tar -xfj ~/Downloads/anki-2.0.47-amd64.tar.bz2 
+ 1985  tar -xf ~/Downloads/anki-2.0.47-amd64.tar.bz2 
+ 1986  ls
+ 1987  ls -altr
+ 1988  cd anki-2.0.47/
+ 1989  ls
+ 1990  more README 
+ 1991  file bin/anki
+ 1992  ls
+ 1993  view Makefile 
+ 1994  sudo make install
+ 1995  bin/anki 
+ 1996  sudo make install
+ 1997  ssh panix5.panix.com
+ 1998  ls
+ 1999  vm wine.install 
+ 2000  vim wine.install 
+ 2001  history
+ 2002  history|egrep winetr
+ 2003  winetricks  --list
+ 2004  winetricks  -h
+ 2005  winetricks  list
+ 2006  jobs
+ 2007  kill %1
+ 2008  jobs
+ 2009  winecfg 
+ 2010  kill %1
+ 2011  sudo apt-get install wine-gecko
+ 2012  winecfg
+ 2013  winetricks  mfc42
+ 2014  winetricks dotnet40
+ 2015  wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe 
+ 2016  kill %1
+ 2017  winetricks dotnet40
+ 2018  cd
+ 2019  pwd
+ 2020  ls -alr .wine/
+ 2021  mv .wine/ .wine.1
+ 2022  mv .wine.1/ .wine-64
+ 2023  history
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wint[Ketricks dotnet40
+------------------------------------------------------
+You are using a 64-bit WINEPREFIX. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+Executing w_do_call dotnet40
+Executing load_dotnet40
+------------------------------------------------------
+This package does not work on a 64-bit installation
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ rm -rf .wine
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$  WINEARCH=win32 wine 
+Usage: wine PROGRAM [ARGUMENTS...]   Run the specified program
+       wine --help                   Display this help and exit
+       wine --version                Output version information and exit
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ rm -rf .wine[K[K[Kwinetricks dotnet40[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksetenv WINEARCH=3[Kwin2[K[K3[Kn32
+No command 'setenv' found, did you mean:
+ Command 'netenv' from package 'netenv' (universe)
+setenv: command not found
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ setenv WINEARCH=win32[C[C[C[C[C[1P WINEARCH=win32[1P WINEARCH=win32[1P WINEARCH=win32[1P WINEARCH=win32[1P WINEARCH=win32e WINEARCH=win32[1P WINEARCH=win32[1P WINEARCH=win32e WINEARCH=win32x WINEARCH=win32p WINEARCH=win32o WINEARCH=win32r WINEARCH=win32t WINEARCH=win32
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ export WINEARCH=win32setenv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Prm -rf .wwinetricks dotnet40
+Executing w_do_call dotnet40
+Executing load_dotnet40
+------------------------------------------------------
+dotnet40 does not yet fully work or install on wine.  Caveat emptor.
+------------------------------------------------------
+Executing mkdir -p /home/jdetke/.cache/winetricks/dotnet40
+Downloading http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe to /home/jdetke/.cache/winetricks/dotnet40
+--2018-02-21 18:15:54--  http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe
+Resolving download.microsoft.com (download.microsoft.com)... 23.197.96.64, 2001:559:19:6080::e59, 2001:559:19:6084::e59
+Connecting to download.microsoft.com (download.microsoft.com)|23.197.96.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50449456 (48M) [application/octet-stream]
+Saving to: ‘dotNetFx40_Full_x86_x64.exe’
+
+dotNetFx40_Full_x86_x64.exe        0%[                                                        ]       0  --.-KB/s               dotNetFx40_Full_x86_x64.exe        1%[                                                        ] 527.56K  2.52MB/s               dotNetFx40_Full_x86_x64.exe        2%[>                                                       ]   1.24M  3.05MB/s               dotNetFx40_Full_x86_x64.exe        3%[=>                                                      ]   1.79M  2.96MB/s               dotNetFx40_Full_x86_x64.exe        5%[==>                                                     ]   2.86M  3.54MB/s               dotNetFx40_Full_x86_x64.exe        7%[===>                                                    ]   3.81M  3.77MB/s               dotNetFx40_Full_x86_x64.exe        9%[====>                                                   ]   4.64M  3.81MB/s               dotNetFx40_Full_x86_x64.exe       11%[=====>                                                  ]   5.35M  3.77MB/s               dotNetFx40_Full_x86_x64.exe       12%[======>                                                 ]   6.10M  3.76MB/s               dotNetFx40_Full_x86_x64.exe       14%[=======>                                                ]   6.95M  3.82MB/s               dotNetFx40_Full_x86_x64.exe       16%[========>                                               ]   8.04M  3.98MB/s               dotNetFx40_Full_x86_x64.exe       18%[=========>                                              ]   9.13M  4.11MB/s               dotNetFx40_Full_x86_x64.exe       20%[==========>                                             ]   9.69M  3.99MB/s               dotNetFx40_Full_x86_x64.exe       22%[===========>                                            ]  10.89M  4.14MB/s               dotNetFx40_Full_x86_x64.exe       24%[============>                                           ]  11.98M  4.24MB/s               dotNetFx40_Full_x86_x64.exe       26%[=============>                                          ]  12.66M  4.18MB/s    eta 8s     dotNetFx40_Full_x86_x64.exe       28%[===============>                                        ]  13.86M  4.39MB/s    eta 8s     dotNetFx40_Full_x86_x64.exe       31%[================>                                       ]  15.03M  4.54MB/s    eta 8s     dotNetFx40_Full_x86_x64.exe       33%[=================>                                      ]  15.91M  4.60MB/s    eta 8s     dotNetFx40_Full_x86_x64.exe       35%[==================>                                     ]  16.99M  4.61MB/s    eta 8s     dotNetFx40_Full_x86_x64.exe       37%[====================>                                   ]  18.13M  4.54MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       39%[=====================>                                  ]  19.03M  4.55MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       41%[======================>                                 ]  19.79M  4.56MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       43%[=======================>                                ]  20.85M  4.66MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       46%[========================>                               ]  22.14M  4.79MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       48%[==========================>                             ]  23.33M  4.86MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       50%[===========================>                            ]  24.23M  4.83MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       52%[============================>                           ]  25.48M  4.90MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       55%[=============================>                          ]  26.52M  4.93MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       57%[===============================>                        ]  27.61M  4.99MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       59%[================================>                       ]  28.59M  4.99MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       61%[=================================>                      ]  29.81M  5.01MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       64%[==================================>                     ]  30.86M  4.99MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       66%[====================================>                   ]  31.93M  5.05MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       68%[=====================================>                  ]  33.06M  5.09MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       71%[======================================>                 ]  34.22M  5.10MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       73%[========================================>               ]  35.40M  5.18MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       76%[=========================================>              ]  36.60M  5.37MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       78%[==========================================>             ]  37.76M  5.40MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       80%[============================================>           ]  38.78M  5.37MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       82%[=============================================>          ]  39.87M  5.37MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       85%[==============================================>         ]  41.02M  5.39MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       87%[===============================================>        ]  42.05M  5.32MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       89%[=================================================>      ]  43.22M  5.36MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       92%[==================================================>     ]  44.44M  5.44MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       94%[===================================================>    ]  45.49M  5.44MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       97%[=====================================================>  ]  46.82M  5.53MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       99%[======================================================> ]  47.73M  5.44MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe      100%[=======================================================>]  48.11M  5.42MB/s    in 9.8s    
+
+2018-02-21 18:16:04 (4.91 MB/s) - ‘dotNetFx40_Full_x86_x64.exe’ saved [50449456/50449456]
+
+/usr/bin/winetricks: 1770: test: Illegal number: wine-3.0
+------------------------------------------------------
+Working around wine bug 30707 -- Need to get gacutil.exe
+------------------------------------------------------
+------------------------------------------------------
+FAIL: bug: media type is download, but w_download_manual was called.  Programmer, please change verb's media type to manual_download.
+------------------------------------------------------
+
+(nautilus:6458): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6458): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6458): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6458): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6458): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+------------------------------------------------------
+Please download gacutil-net40.tar.bz2 from http://www.mediafire.com/?v8rw5h1ra7maod4, place it in /home/jdetke/.cache/winetricks/dotnet40, then re-run this script.
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ ls .cache/wineti[Kricks/
+[0m[01;34mdotnet40[0m  [01;34mfirefox[0m  track_usage  [01;34mvcrun6[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ rm -rf .cw[Kache/winetricks/
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ rm -rf .cache/winetricks/[4Pls[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pwinetricks dotnet40export WINEARCH=win32[2Pwinetricks dotnet40
+Executing w_do_call dotnet40
+Executing load_dotnet40
+------------------------------------------------------
+dotnet40 does not yet fully work or install on wine.  Caveat emptor.
+------------------------------------------------------
+Executing mkdir -p /home/jdetke/.cache/winetricks/dotnet40
+Downloading http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe to /home/jdetke/.cache/winetricks/dotnet40
+--2018-02-21 18:17:25--  http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe
+Resolving download.microsoft.com (download.microsoft.com)... 23.197.96.64, 2001:559:19:6092::e59, 2001:559:19:608a::e59, ...
+Connecting to download.microsoft.com (download.microsoft.com)|23.197.96.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50449456 (48M) [application/octet-stream]
+Saving to: ‘dotNetFx40_Full_x86_x64.exe’
+
+dotNetFx40_Full_x86_x64.exe        0%[                                                        ]       0  --.-KB/s               dotNetFx40_Full_x86_x64.exe        1%[                                                        ] 873.22K  4.25MB/s               dotNetFx40_Full_x86_x64.exe        3%[=>                                                      ]   1.87M  4.65MB/s               dotNetFx40_Full_x86_x64.exe        6%[==>                                                     ]   3.00M  4.95MB/s               dotNetFx40_Full_x86_x64.exe        9%[====>                                                   ]   4.39M  5.45MB/s               dotNetFx40_Full_x86_x64.exe       10%[=====>                                                  ]   5.18M  5.15MB/s               dotNetFx40_Full_x86_x64.exe       11%[=====>                                                  ]   5.49M  4.49MB/s               dotNetFx40_Full_x86_x64.exe       12%[=====>                                                  ]   5.93M  4.16MB/s               dotNetFx40_Full_x86_x64.exe       15%[=======>                                                ]   7.31M  4.49MB/s               dotNetFx40_Full_x86_x64.exe       17%[========>                                               ]   8.41M  4.60MB/s               dotNetFx40_Full_x86_x64.exe       19%[=========>                                              ]   9.26M  4.55MB/s               dotNetFx40_Full_x86_x64.exe       21%[==========>                                             ]  10.17M  4.55MB/s               dotNetFx40_Full_x86_x64.exe       23%[============>                                           ]  11.33M  4.62MB/s               dotNetFx40_Full_x86_x64.exe       26%[=============>                                          ]  12.58M  4.74MB/s               dotNetFx40_Full_x86_x64.exe       28%[==============>                                         ]  13.59M  4.76MB/s               dotNetFx40_Full_x86_x64.exe       30%[===============>                                        ]  14.52M  4.75MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       32%[=================>                                      ]  15.66M  4.82MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       34%[==================>                                     ]  16.80M  4.86MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       37%[===================>                                    ]  17.97M  4.89MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       39%[=====================>                                  ]  19.11M  4.79MB/s    eta 7s     dotNetFx40_Full_x86_x64.exe       42%[======================>                                 ]  20.23M  4.87MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       44%[=======================>                                ]  21.33M  4.98MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       46%[=========================>                              ]  22.38M  5.34MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       48%[==========================>                             ]  23.48M  5.26MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       51%[===========================>                            ]  24.67M  5.32MB/s    eta 6s     dotNetFx40_Full_x86_x64.exe       53%[=============================>                          ]  25.81M  5.37MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       55%[==============================>                         ]  26.92M  5.40MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       58%[===============================>                        ]  28.12M  5.44MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       60%[=================================>                      ]  29.27M  5.45MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       63%[==================================>                     ]  30.36M  5.48MB/s    eta 4s     dotNetFx40_Full_x86_x64.exe       65%[===================================>                    ]  31.50M  5.44MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       67%[====================================>                   ]  32.63M  5.48MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       69%[======================================>                 ]  33.63M  5.49MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       72%[=======================================>                ]  34.68M  5.45MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       74%[========================================>               ]  35.75M  5.42MB/s    eta 3s     dotNetFx40_Full_x86_x64.exe       76%[==========================================>             ]  36.97M  5.48MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       78%[==========================================>             ]  37.76M  5.37MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       79%[===========================================>            ]  38.41M  5.15MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       81%[============================================>           ]  39.43M  5.15MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       84%[==============================================>         ]  40.49M  5.13MB/s    eta 2s     dotNetFx40_Full_x86_x64.exe       86%[===============================================>        ]  41.59M  5.12MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       88%[================================================>       ]  42.74M  5.13MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       90%[=================================================>      ]  43.52M  5.00MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       92%[==================================================>     ]  44.55M  4.99MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       95%[====================================================>   ]  45.72M  4.91MB/s    eta 1s     dotNetFx40_Full_x86_x64.exe       97%[=====================================================>  ]  46.81M  4.89MB/s    eta 0s     dotNetFx40_Full_x86_x64.exe       99%[======================================================> ]  47.90M  4.90MB/s    eta 0s     dotNetFx40_Full_x86_x64.exe      100%[=======================================================>]  48.11M  4.93MB/s    in 9.5s    
+
+2018-02-21 18:17:35 (5.06 MB/s) - ‘dotNetFx40_Full_x86_x64.exe’ saved [50449456/50449456]
+
+/usr/bin/winetricks: 1770: test: Illegal number: wine-3.0
+------------------------------------------------------
+Working around wine bug 30707 -- Need to get gacutil.exe
+------------------------------------------------------
+------------------------------------------------------
+FAIL: bug: media type is download, but w_download_manual was called.  Programmer, please change verb's media type to manual_download.
+------------------------------------------------------
+
+(nautilus:7595): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7595): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:7595): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:7595): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:7595): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+------------------------------------------------------
+Please download gacutil-net40.tar.bz2 from http://www.mediafire.com/?v8rw5h1ra7maod4, place it in /home/jdetke/.cache/winetricks/dotnet40, then re-run this script.
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe 
+[?1h=0009:fixme:shell:SHAutoComplete stub
+0009:fixme:shell:SHAutoComplete stub
+[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wine ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctricks dotnet40[K ~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwine [K[K[K[K[Kwine --help
+Usage: wine PROGRAM [ARGUMENTS...]   Run the specified program
+       wine --help                   Display this help and exit
+       wine --version                Output version information and exit
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wine --help[K[K[K[K[K[K --version
+wine-3.0
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wine
+Usage: wine PROGRAM [ARGUMENTS...]   Run the specified program
+       wine --help                   Display this help and exit
+       wine --version                Output version information and exit
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wine bash[K[K[K[K --version[4P--help~/Downloads/N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe 
+[?1h=[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ wine n1mm
+wine: cannot find L"C:\\windows\\system32\\n1mm.exe"
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ win[K[K[Kpwd
+/home/jdetke
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ ls .wine
+[0m[01;34mdosdevices[0m  [01;34mdrive_c[0m  system.reg  userdef.reg  user.reg  winetricks.log
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ ls .wine/drive_c/
+[0m[01;34mProgramData[0m  [01;34mProgram Files[0m  [01;34musers[0m  [01;34mwindows[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ ls .wine/drive_c/windows/system32/n[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwindows/system
+ddeml.dll  mmsystem.dll
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ pwd
+/home/jdetke
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ find * -name \*exe
+Downloads/2013/eMap_290.exe
+Downloads/N1MM Logger+ FullInstaller 1.0.5327.exe
+Downloads/HRBlock_Deluxe.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/setuptools/cli.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/setuptools/gui-32.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/setuptools/cli-32.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/setuptools/gui.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/setuptools/gui-64.exe
+Projects/virtualenv/foo2/lib/python2.7/site-packages/setuptools/cli-64.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/pip/_vendor/distlib/w64.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/pip/_vendor/distlib/t32.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/pip/_vendor/distlib/t64.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/pip/_vendor/distlib/w32.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/setuptools/cli.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/setuptools/gui-32.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/setuptools/cli-32.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/setuptools/gui.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/setuptools/gui-64.exe
+Projects/virtualenv/foo/lib/python2.7/site-packages/setuptools/cli-64.exe
+Projects/wizkers/wizkers/wizkers/node_modules/term-size/vendor/windows/term-size.exe
+Projects/wizkers/wizkers/wizkers/node_modules/winresourcer/bin/Resourcer.exe
+Projects/wizkers/wizkers/wizkers/node_modules/rcedit/bin/rcedit.exe
+Projects/wizkers/wizkers/wizkers/node_modules/isexe
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ find * -name \*exen\*exe
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ pwd
+/home/jdetke
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ find .wine* -nameC[K[K[Kpwd[Kfind * -name n\*exe[1P\*exepwd[Kls .wine/drive_c/windows/system
+ddeml.dll  mmsystem.dll
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ cd .wine
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ find * -name n1\*
+drive_c/Program Files/N1MM Logger+/n1mmv12wave.ocx
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ ls drive_c/
+[0m[01;34mProgramData[0m  [01;34mProgram Files[0m  [01;34musers[0m  [01;34mwindows[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ ls drive_c/Program
+ls: cannot access 'drive_c/Program': No such file or directory
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ ls drive_c/Program*
+drive_c/ProgramData:
+[0m[01;34mMicrosoft[0m
+
+drive_c/Program Files:
+[01;34mCommon Files[0m  [01;34mInternet Explorer[0m  [01;34mN1MM Logger+[0m  [01;34mWindows Media Player[0m  [01;34mWindows NT[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ find * -name \*exe
+drive_c/Program Files/Windows Media Player/wmplayer.exe
+drive_c/Program Files/N1MM Logger+/N1MMRotor.Net.exe
+drive_c/Program Files/N1MM Logger+/N1MMLogger.net.exe
+drive_c/Program Files/N1MM Logger+/Uninstall.exe
+drive_c/Program Files/Internet Explorer/iexplore.exe
+drive_c/Program Files/Windows NT/Accessories/wordpad.exe
+drive_c/windows/explorer.exe
+drive_c/windows/notepad.exe
+drive_c/windows/Microsoft.NET/Framework/v4.0.30319/ngen.exe
+drive_c/windows/Microsoft.NET/Framework/v2.0.50727/ngen.exe
+drive_c/windows/Microsoft.NET/Framework/v2.0.50727/regasm.exe
+drive_c/windows/Microsoft.NET/Framework/v3.0/windows communication foundation/servicemodelreg.exe
+drive_c/windows/Microsoft.NET/Framework/v3.0/wpf/presentationfontcache.exe
+drive_c/windows/Microsoft.NET/Framework/v1.1.4322/aspnet_regiis.exe
+drive_c/windows/Microsoft.NET/Framework/v1.1.4322/ngen.exe
+drive_c/windows/Microsoft.NET/Framework/v1.1.4322/regsvcs.exe
+drive_c/windows/hh.exe
+drive_c/windows/winhelp.exe
+drive_c/windows/winhlp32.exe
+drive_c/windows/system32/ntoskrnl.exe
+drive_c/windows/system32/reg.exe
+drive_c/windows/system32/dpnsvr.exe
+drive_c/windows/system32/secedit.exe
+drive_c/windows/system32/expand.exe
+drive_c/windows/system32/winevdm.exe
+drive_c/windows/system32/explorer.exe
+drive_c/windows/system32/iexplore.exe
+drive_c/windows/system32/notepad.exe
+drive_c/windows/system32/xcopy.exe
+drive_c/windows/system32/systeminfo.exe
+drive_c/windows/system32/cabarc.exe
+drive_c/windows/system32/wineboot.exe
+drive_c/windows/system32/lodctr.exe
+drive_c/windows/system32/svchost.exe
+drive_c/windows/system32/powershell.exe
+drive_c/windows/system32/termsv.exe
+drive_c/windows/system32/uninstaller.exe
+drive_c/windows/system32/winebrowser.exe
+drive_c/windows/system32/attrib.exe
+drive_c/windows/system32/shutdown.exe
+drive_c/windows/system32/dosx.exe
+drive_c/windows/system32/icinfo.exe
+drive_c/windows/system32/winver.exe
+drive_c/windows/system32/sdbinst.exe
+drive_c/windows/system32/net.exe
+drive_c/windows/system32/gdi.exe
+drive_c/windows/system32/tasklist.exe
+drive_c/windows/system32/netstat.exe
+drive_c/windows/system32/rundll32.exe
+drive_c/windows/system32/cscript.exe
+drive_c/windows/system32/winemenubuilder.exe
+drive_c/windows/system32/wineconsole.exe
+drive_c/windows/system32/wusa.exe
+drive_c/windows/system32/plugplay.exe
+drive_c/windows/system32/unlodctr.exe
+drive_c/windows/system32/eject.exe
+drive_c/windows/system32/subst.exe
+drive_c/windows/system32/taskmgr.exe
+drive_c/windows/system32/regsvr32.exe
+drive_c/windows/system32/wbem/wmic.exe
+drive_c/windows/system32/wbem/mofcomp.exe
+drive_c/windows/system32/spoolsv.exe
+drive_c/windows/system32/winepath.exe
+drive_c/windows/system32/cacls.exe
+drive_c/windows/system32/winhlp32.exe
+drive_c/windows/system32/winecfg.exe
+drive_c/windows/system32/winedbg.exe
+drive_c/windows/system32/view.exe
+drive_c/windows/system32/krnl386.exe
+drive_c/windows/system32/cmd.exe
+drive_c/windows/system32/fsutil.exe
+drive_c/windows/system32/winemsibuilder.exe
+drive_c/windows/system32/extrac32.exe
+drive_c/windows/system32/icacls.exe
+drive_c/windows/system32/user.exe
+drive_c/windows/system32/conhost.exe
+drive_c/windows/system32/winemine.exe
+drive_c/windows/system32/wscript.exe
+drive_c/windows/system32/wevtutil.exe
+drive_c/windows/system32/progman.exe
+drive_c/windows/system32/msinfo32.exe
+drive_c/windows/system32/winefile.exe
+drive_c/windows/system32/ipconfig.exe
+drive_c/windows/system32/oleview.exe
+drive_c/windows/system32/hostname.exe
+drive_c/windows/system32/services.exe
+drive_c/windows/system32/rpcss.exe
+drive_c/windows/system32/msiexec.exe
+drive_c/windows/system32/control.exe
+drive_c/windows/system32/dxdiag.exe
+drive_c/windows/system32/netsh.exe
+drive_c/windows/system32/write.exe
+drive_c/windows/system32/taskkill.exe
+drive_c/windows/system32/ddhelp.exe
+drive_c/windows/system32/mshta.exe
+drive_c/windows/system32/schtasks.exe
+drive_c/windows/system32/arp.exe
+drive_c/windows/system32/sc.exe
+drive_c/windows/system32/findstr.exe
+drive_c/windows/system32/winedevice.exe
+drive_c/windows/system32/ping.exe
+drive_c/windows/system32/clock.exe
+drive_c/windows/rundll.exe
+drive_c/windows/regedit.exe
+drive_c/windows/command/start.exe
+drive_c/windows/mono/mono-2.0/lib/mono/gac/mono-service/4.0.0.0__0738eb9f132ed756/mono-service.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/permview.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-api-info.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/resgen.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-xmltool.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mkbundle.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/nunit-console.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/ictool.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/crlupdate.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/installvst.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/genxs.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/monop.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/pdb2mdb.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/csharp.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/sgen.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/chktrust.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/caspol.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mcs.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/macpack.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/certmgr.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/setreg.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-symbolicate.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mdbrebase.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-api-html.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/al.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/signcode.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/ilasm.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/cert-sync.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/svcutil.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/sn.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/linkeranalyzer.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mozroots.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/dtd2rng.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/browsercaps-updater.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/ccrewrite.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/disco.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/soapsuds.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/ikdasm.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-shlib-cop.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mdoc.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/xbuild.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/RabbitMQ.Client.Apigen.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/cert2spc.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/cccheck.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/xsd.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/lc.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/httpcfg.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mdb2ppdb.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/monolinker.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/vbnc.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mod.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/secutil.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-service.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/installutil.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/sqlmetal.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/sqlsharp.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/csc.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mono-cil-strip.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/mconfig.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/wsdl.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/makecert.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/culevel.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/gacutil.exe
+drive_c/windows/mono/mono-2.0/lib/mono/4.5/dtd2xsd.exe
+drive_c/windows/mono/mono-2.0/lib/mono/xbuild/14.0/bin/xbuild.exe
+drive_c/windows/mono/mono-2.0/lib/mono/xbuild/12.0/bin/xbuild.exe
+drive_c/windows/mono/mono-2.0/lib/mono/mono-configuration-crypto/4.5/mono-configuration-crypto.exe
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ wine drive_c/Program Files/N1MM Logger+/N1MMLogger.net.exe
+wine: cannot find 'drive_c/Program'
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ pwd
+/home/jdetke/.wine
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ ls drive_c/C[K[K[K[K[K[K[K[K[K[K[K[KWINE[K[K[K[Kwine N1MMLogger.net.exe
+wine: cannot find L"C:\\windows\\system32\\N1MMLogger.net.exe"
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ ls [K[K[Kfind * -name n1mm[K[K[K[KN1MM\*
+drive_c/Program Files/N1MM Logger+
+drive_c/Program Files/N1MM Logger+/N1MMRotor.Net.exe
+drive_c/Program Files/N1MM Logger+/N1MMLoggerTimer.dll
+drive_c/Program Files/N1MM Logger+/N1MMLogger.net.exe
+drive_c/Program Files/N1MM Logger+/N1MMV12WaveLib.dll
+drive_c/Program Files/N1MM Logger+/N1MMLogger.net.exe.manifest
+drive_c/Program Files/N1MM Logger+/N1MMLibrary.pdb
+drive_c/Program Files/N1MM Logger+/N1MMLibrary.dll
+drive_c/Program Files/N1MM Logger+/N1MMLogger.net.pdb
+drive_c/Program Files/N1MM Logger+/N1MMLogger.net.exe.config
+drive_c/Program Files/N1MM Logger+/N1MMRotor.Net.pdb
+drive_c/ProgramData/Microsoft/Windows/Start Menu/Programs/N1MM Logger+
+drive_c/ProgramData/Microsoft/Windows/Start Menu/Programs/N1MM Logger+/N1MM Logger+.lnk
+drive_c/users/Public/Desktop/N1MM Logger+.lnk
+drive_c/users/Public/Desktop/N1MM Rotor.lnk
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ win [Ke N1m[KMM Logger+
+wine: cannot find L"C:\\windows\\system32\\N1MM.exe"
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ wine N1MM Logger+[K[K[K[K[K[K[K[K[K[K[K[K"N1MM Logger+"
+wine: cannot find 'N1MM Logger+'
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ wine "N1MM Logger+"[K[K[K[K[K[K[K[K[K"
+wine: cannot find L"C:\\windows\\system32\\N1MM.exe"
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ cd drive_c/Program[K[K[K[K[K[K[K
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_cjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c$ ls
+[0m[01;34mProgramData[0m  [01;34mProgram Files[0m  [01;34musers[0m  [01;34mwindows[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_cjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c$ cd Program*s
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ pwd
+/home/jdetke/.wine/drive_c/Program Files
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ ls
+[0m[01;34mCommon Files[0m  [01;34mInternet Explorer[0m  [01;34mN1MM Logger+[0m  [01;34mWindows Media Player[0m  [01;34mWindows NT[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ ls N1MM\ Logger+/
+AxInterop.MMVARILib.dll       mfc110.dll                               N1MMLogger.net.exe.manifest    RevisionHistory.txt
+AxInterop.N1MMV12WaveLib.dll  Microsoft.VisualBasic.PowerPacks.Vs.dll  N1MMLogger.net.pdb             [0m[01;34mSkinsAndLayouts[0m
+AxInterop.XMMTLib.dll         MMVARIFSK1.fsk                           N1MMLoggerTimer.dll            SQLite.Interop.dll
+DXSOFTEX2.dll                 MMVARIFSK2.fsk                           [01;32mN1MMRotor.Net.exe[0m              SunCalcs.dll
+EXTFSK164.fsk                 MMVARILib.dll                            N1MMRotor.Net.pdb              System.Data.SQLite.dll
+EXTFSK1.fsk                   mmvari.ocx                               N1MMV12WaveLib.dll             [01;32mUninstall.exe[0m
+EXTFSK264.fsk                 msvcr110.dll                             n1mmv12wave.ocx                [01;34mWav[0m
+EXTFSK2.fsk                   N1MMLibrary.dll                          NAudio.dll                     XMMTLib.dll
+FLDG.dll                      N1MMLibrary.pdb                          NAudio.WindowsMediaFormat.dll  xmmt.ocx
+inpout32.dll                  [01;32mN1MMLogger.net.exe[0m                       ObjectListView.dll
+install.log                   N1MMLogger.net.exe.config                [01;34mPrerequisiteInstallers[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ ls N1MM\ Logger+/*exe
+[0m[01;32mN1MM Logger+/N1MMLogger.net.exe[0m  [01;32mN1MM Logger+/N1MMRotor.Net.exe[0m  [01;32mN1MM Logger+/Uninstall.exe[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wine N1m[KMMLogger.net
+wine: cannot find L"C:\\windows\\system32\\N1MMLogger.net"
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wine N1MMLogger.net.exe
+wine: cannot find L"C:\\windows\\system32\\N1MMLogger.net.exe"
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wine N1MMLogger.net.exe[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K N1MM\ Logger+/n1[K[Kn1[K[KN`[K1MMLogger.net.exe 
+[?1h=0009:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"system.diagnostics" in state 2
+0009:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"trace" in state 6
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+
+Unhandled Exception:
+System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ pwd
+/home/jdetke/.wine/drive_c/Program Files
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ cd
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ cd Downloads/
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Downloadsjdetke@jdetke-ThinkPad-T430s:~/Downloads$ ls -altr N*
+-rw-rw-r-- 1 jdetke jdetke 8701603 Feb 21 17:50 N1MM Logger+ FullInstaller 1.0.5327.exe
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Downloadsjdetke@jdetke-ThinkPad-T430s:~/Downloads$ wine ./N1MM\ Logger+\ FullInstaller\ 1.0.5327.exe 
+[?1h=0009:fixme:shell:SHAutoComplete stub
+0009:fixme:shell:SHAutoComplete stub
+[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~/Downloadsjdetke@jdetke-ThinkPad-T430s:~/Downloads$ wine N1MM\ Logger.exe
+wine: cannot find 'N1MM Logger.exe'
+]0;jdetke@jdetke-ThinkPad-T430s: ~/Downloadsjdetke@jdetke-ThinkPad-T430s:~/Downloads$ wine N1MM\ Logger.exe[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ cd .wine
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ c[Kcd Pro[K[K[K[K[K[Kls
+[0m[01;34mdosdevices[0m  [01;34mdrive_c[0m  system.reg  userdef.reg  user.reg  winetricks.log
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.winejdetke@jdetke-ThinkPad-T430s:~/.wine$ cd drive_c/
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_cjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c$ ls
+[0m[01;34mProgramData[0m  [01;34mProgram Files[0m  [01;34musers[0m  [01;34mwindows[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_cjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c$ cd Program*s
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ ls
+[0m[01;34mCommon Files[0m  [01;34mInternet Explorer[0m  [01;34mN1MM Logger+[0m  [01;34mWindows Media Player[0m  [01;34mWindows NT[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ cd Windows\ [K[K[K[K[K[K[K[K[K[K N1MM\ Logger+/
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Files/N1MM Logger+jdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files/N1MM Logger+$ ls
+AxInterop.MMVARILib.dll       mfc110.dll                               N1MMLogger.net.exe.manifest    RevisionHistory.txt
+AxInterop.N1MMV12WaveLib.dll  Microsoft.VisualBasic.PowerPacks.Vs.dll  N1MMLogger.net.pdb             [0m[01;34mSkinsAndLayouts[0m
+AxInterop.XMMTLib.dll         MMVARIFSK1.fsk                           N1MMLoggerTimer.dll            SQLite.Interop.dll
+DXSOFTEX2.dll                 MMVARIFSK2.fsk                           [01;32mN1MMRotor.Net.exe[0m              SunCalcs.dll
+EXTFSK164.fsk                 MMVARILib.dll                            N1MMRotor.Net.pdb              System.Data.SQLite.dll
+EXTFSK1.fsk                   mmvari.ocx                               N1MMV12WaveLib.dll             [01;32mUninstall.exe[0m
+EXTFSK264.fsk                 msvcr110.dll                             n1mmv12wave.ocx                [01;34mWav[0m
+EXTFSK2.fsk                   N1MMLibrary.dll                          NAudio.dll                     XMMTLib.dll
+FLDG.dll                      N1MMLibrary.pdb                          NAudio.WindowsMediaFormat.dll  xmmt.ocx
+inpout32.dll                  [01;32mN1MMLogger.net.exe[0m                       ObjectListView.dll
+install.log                   N1MMLogger.net.exe.config                [01;34mPrerequisiteInstallers[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Files/N1MM Logger+jdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files/N1MM Logger+$ ls *exe
+[0m[01;32mN1MMLogger.net.exe[0m  [01;32mN1MMRotor.Net.exe[0m  [01;32mUninstall.exe[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Files/N1MM Logger+jdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files/N1MM Logger+$ wine ./N1MMLogger.net.exe 
+[?1h=0009:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"system.diagnostics" in state 2
+0009:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"trace" in state 6
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+
+Unhandled Exception:
+System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Files/N1MM Logger+jdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files/N1MM Logger+$ [K]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Files/N1MM Logger+jdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files/N1MM Logger+$ cd
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ winetricks jet40
+Executing w_do_call jet40
+Executing load_jet40
+Executing w_do_call mdac27
+Executing load_mdac27
+
+(nautilus:12355): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:12355): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:12355): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:12355): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:12355): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+------------------------------------------------------
+Please download mdac_typ.exe from http://download.cnet.com/Microsoft-Data-Access-Components-MDAC-2-7-Service-Pack-1-Refresh/3000-10250_4-10729498.html, place it in /home/jdetke/.cache/winetricks/mdac27, then re-run this script.
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ winetricks jet40cd[Kwine ./N1MMLogger.net.exe 
+wine: cannot find './N1MMLogger.net.exe'
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ pwd
+/home/jdetke
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ cd .wine/d[Kdrive_c/Program [K][K\[K\[K*s
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ pwd
+/home/jdetke/.wine/drive_c/Program Files
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ ls
+[0m[01;34mCommon Files[0m  [01;34mInternet Explorer[0m  [01;34mN1MM Logger+[0m  [01;34mWindows Media Player[0m  [01;34mWindows NT[0m
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wine N1MM\ Logger+/N1MMl[KLogger.net.exe 
+[?1h=0009:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"system.diagnostics" in state 2
+0009:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"trace" in state 6
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+0009:fixme:gdiplus:GdipGetLineSpacing ignoring style
+
+Unhandled Exception:
+System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wine N1MM\ Logger+/N1MMLogger.net.exe ls[Kpwdcd .wine/drive_c/Program*spwd[Kwine ./N1MMLogger.net.exe [10Ptricks jet40
+Executing w_do_call jet40
+Executing load_jet40
+Executing w_do_call mdac27
+Executing load_mdac27
+
+(nautilus:13678): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13678): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:13678): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:13678): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:13678): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+------------------------------------------------------
+Please download mdac_typ.exe from http://download.cnet.com/Microsoft-Data-Access-Components-MDAC-2-7-Service-Pack-1-Refresh/3000-10250_4-10729498.html, place it in /home/jdetke/.cache/winetricks/mdac27, then re-run this script.
+------------------------------------------------------
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wint[Ketricks 
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+------------------------------------------------------
+wine cmd.exe /c echo '%ProgramFiles%' returned a string containing the word 'unknown', as if a voice had cried out in terror, and was suddenly silenced.
+------------------------------------------------------
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ wine cmd.exe
+[?1h=Microsoft Windows 6.1.7601 (3.0)
+
+C:\Program Files>ppwpwd
+Can't recognize 'pwd' as an internal or external command, or batch script.
+
+C:\Program Files>lls
+Can't recognize 'ls' as an internal or external command, or batch script.
+
+C:\Program Files>ddidir
+Volume in drive C has no label.
+Volume Serial Number is 0000-0000
+
+Directory of C:\Program Files
+
+ 2/21/2018   6:18 PM  <DIR>         .
+ 2/21/2018   6:15 PM  <DIR>         ..
+ 2/21/2018   6:15 PM  <DIR>         Common Files
+ 2/21/2018   6:15 PM  <DIR>         Internet Explorer
+ 2/21/2018   6:18 PM  <DIR>         N1MM Logger+
+ 2/21/2018   6:15 PM  <DIR>         Windows Media Player
+ 2/21/2018   6:15 PM  <DIR>         Windows NT
+       0 files                        0 bytes
+       7 directories     75,378,384,896 bytes free
+
+
+C:\Program Files>ccdcd cd cd Pcd Prcd Pr^Icd Pr  cd P cd  cd cd Ncd N^Icd N  cd N1cd N1^Icd N1  cd N1cd N1Mcd N1Mcd N1MMcd N1MMcd N1MM*
+
+C:\Program Files\N1MM Logger+>lls
+Can't recognize 'ls' as an internal or external command, or batch script.
+
+C:\Program Files\N1MM Logger+>ddidir
+Volume in drive C has no label.
+Volume Serial Number is 0000-0000
+
+Directory of C:\Program Files\N1MM Logger+
+
+ 2/21/2018   6:18 PM  <DIR>         .
+ 2/21/2018   6:18 PM  <DIR>         ..
+ 6/28/2015   6:57 AM        61,952  AxInterop.MMVARILib.dll
+ 6/28/2015   6:57 AM        11,776  AxInterop.N1MMV12WaveLib.dll
+ 6/28/2015   6:57 AM        59,904  AxInterop.XMMTLib.dll
+ 6/28/2015   6:57 AM       102,912  DXSOFTEX2.dll
+ 6/28/2015   6:58 AM       494,592  EXTFSK1.fsk
+ 6/28/2015   6:58 AM       447,488  EXTFSK164.fsk
+ 6/28/2015   6:58 AM       494,592  EXTFSK2.fsk
+ 6/28/2015   6:58 AM       447,488  EXTFSK264.fsk
+10/18/2015   3:04 AM        31,744  FLDG.dll
+ 6/28/2015   6:57 AM        98,304  inpout32.dll
+ 2/21/2018   7:15 PM        40,149  install.log
+ 6/28/2015   6:59 AM     4,421,192  mfc110.dll
+ 6/28/2015   6:58 AM       269,344  Microsoft.VisualBasic.PowerPacks.Vs.dll
+ 6/28/2015   6:58 AM       491,520  mmvari.ocx
+ 6/28/2015   6:58 AM       338,944  MMVARIFSK1.fsk
+ 6/28/2015   6:58 AM       338,944  MMVARIFSK2.fsk
+ 6/28/2015   6:57 AM        69,120  MMVARILib.dll
+ 6/28/2015   6:59 AM       875,472  msvcr110.dll
+11/25/2015   3:38 PM        54,784  N1MMLibrary.dll
+11/25/2015   3:38 PM       146,944  N1MMLibrary.pdb
+11/25/2015   3:38 PM    10,433,536  N1MMLogger.net.exe
+ 11/9/2015   3:28 AM         1,317  N1MMLogger.net.exe.config
+11/25/2015   3:38 PM        18,186  N1MMLogger.net.exe.manifest
+11/25/2015   3:38 PM     7,147,008  N1MMLogger.net.pdb
+ 6/28/2015   6:57 AM        36,931  N1MMLoggerTimer.dll
+11/25/2015   3:38 PM       107,520  N1MMRotor.Net.exe
+11/25/2015   3:38 PM       151,040  N1MMRotor.Net.pdb
+ 6/28/2015   6:57 AM        77,824  n1mmv12wave.ocx
+ 6/28/2015   6:57 AM        18,432  N1MMV12WaveLib.dll
+ 9/19/2015  11:30 AM       471,040  NAudio.dll
+ 9/19/2015  11:30 AM        82,944  NAudio.WindowsMediaFormat.dll
+ 6/28/2015   6:57 AM       414,720  ObjectListView.dll
+ 2/21/2018   6:18 PM  <DIR>         PrerequisiteInstallers
+11/25/2015   3:37 PM       336,466  RevisionHistory.txt
+ 2/21/2018   6:18 PM  <DIR>         SkinsAndLayouts
+ 6/28/2015   6:59 AM       871,424  SQLite.Interop.dll
+ 6/28/2015   6:58 AM       114,688  SunCalcs.dll
+ 6/28/2015   6:59 AM       270,336  System.Data.SQLite.dll
+ 2/21/2018   7:15 PM        65,883  Uninstall.exe
+ 2/21/2018   6:18 PM  <DIR>         Wav
+ 6/28/2015   6:57 AM       368,640  xmmt.ocx
+ 6/28/2015   6:57 AM        75,776  XMMTLib.dll
+      39 files               30,360,876 bytes
+       5 directories     75,378,348,032 bytes free
+
+
+C:\Program Files\N1MM Logger+>.././n./ ././N./N1./N1./N1M./N1Mm./N1Mm^I./N1Mm  ./N1M ./N1M./N1MM./N1MM./N1MML./N1MMLo./N1MMLog./N1MMLogg./N1MMLogge./N1MMLogger./N1MMLogger../N1MMLogger.n./N1MMLogger.ne./N1MMLogger.net./N1MMLogger.net../N1MMLogger.net.e./N1MMLogger.net.ex./N1MMLogger.net.exe
+
+C:\Program Files\N1MM Logger+>002f:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"system.diagnostics" in state 2
+002f:fixme:mscoree:ConfigFileHandler_startElement Unknown element L"trace" in state 6
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+002f:fixme:gdiplus:GdipGetLineSpacing ignoring style
+
+Unhandled Exception:
+System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.InvalidOperationException: WinForms_SeeInnerException ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at N1MMLogger.Net.EntryWindow.CallSign_ForeColorChanged (System.Object sender, System.EventArgs e) [0x00033] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper delegate-invoke) <Module>:invoke_void_object_EventArgs (object,System.EventArgs)
+  at System.Windows.Forms.Control.OnForeColorChanged (System.EventArgs e) [0x00019] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.Control.set_ForeColor (System.Drawing.Color value) [0x0001b] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at System.Windows.Forms.TextBoxBase.set_ForeColor (System.Drawing.Color value) [0x00000] in <dfcf5e19b3744f6abc3507fe9dffa1dd>:0 
+  at N1MMLogger.Net.EntryWindow.InitializeComponent () [0x069fa] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper remoting-invoke-with-check) N1MMLogger.Net.EntryWindow:InitializeComponent ()
+  at N1MMLogger.Net.EntryWindow..ctor () [0x002b1] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoCMethod:InternalInvoke (System.Reflection.MonoCMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoCMethod.InternalInvoke (System.Object obj, System.Object[] parameters) [0x00002] in <1c90db0b17cb4b1e827d577d0607b212>:0 
+   --- End of inner exception stack trace ---
+  at N1MMLogger.Net.My.MyProject+MyForms.Create__Instance__[T] (T Instance) [0x000c6] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyProject+MyForms.get_EntryWindow () [0x00000] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at N1MMLogger.Net.My.MyApplication.OnCreateMainForm () [0x00006] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.OnRun () [0x00010] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at Microsoft.VisualBasic.ApplicationServices.WindowsFormsApplicationBase.Run (System.String[] commandLine) [0x00001] in <d77c0589b3c84548bd2e5f56ab7adf43>:0 
+  at N1MMLogger.Net.My.MyApplication.Main (System.String[] Args) [0x00012] in <e6b4a15e33014a17bdcc5ee1a289f6eb>:0 
+
+
+C:\Program Files\N1MM Logger+>ppdpdw
+Can't recognize 'pdw' as an internal or external command, or batch script.
+
+C:\Program Files\N1MM Logger+>ddidir
+Volume in drive C has no label.
+Volume Serial Number is 0000-0000
+
+Directory of C:\Program Files\N1MM Logger+
+
+ 2/21/2018   6:18 PM  <DIR>         .
+ 2/21/2018   6:18 PM  <DIR>         ..
+ 6/28/2015   6:57 AM        61,952  AxInterop.MMVARILib.dll
+ 6/28/2015   6:57 AM        11,776  AxInterop.N1MMV12WaveLib.dll
+ 6/28/2015   6:57 AM        59,904  AxInterop.XMMTLib.dll
+ 6/28/2015   6:57 AM       102,912  DXSOFTEX2.dll
+ 6/28/2015   6:58 AM       494,592  EXTFSK1.fsk
+ 6/28/2015   6:58 AM       447,488  EXTFSK164.fsk
+ 6/28/2015   6:58 AM       494,592  EXTFSK2.fsk
+ 6/28/2015   6:58 AM       447,488  EXTFSK264.fsk
+10/18/2015   3:04 AM        31,744  FLDG.dll
+ 6/28/2015   6:57 AM        98,304  inpout32.dll
+ 2/21/2018   7:15 PM        40,149  install.log
+ 6/28/2015   6:59 AM     4,421,192  mfc110.dll
+ 6/28/2015   6:58 AM       269,344  Microsoft.VisualBasic.PowerPacks.Vs.dll
+ 6/28/2015   6:58 AM       491,520  mmvari.ocx
+ 6/28/2015   6:58 AM       338,944  MMVARIFSK1.fsk
+ 6/28/2015   6:58 AM       338,944  MMVARIFSK2.fsk
+ 6/28/2015   6:57 AM        69,120  MMVARILib.dll
+ 6/28/2015   6:59 AM       875,472  msvcr110.dll
+11/25/2015   3:38 PM        54,784  N1MMLibrary.dll
+11/25/2015   3:38 PM       146,944  N1MMLibrary.pdb
+11/25/2015   3:38 PM    10,433,536  N1MMLogger.net.exe
+ 11/9/2015   3:28 AM         1,317  N1MMLogger.net.exe.config
+11/25/2015   3:38 PM        18,186  N1MMLogger.net.exe.manifest
+11/25/2015   3:38 PM     7,147,008  N1MMLogger.net.pdb
+ 6/28/2015   6:57 AM        36,931  N1MMLoggerTimer.dll
+11/25/2015   3:38 PM       107,520  N1MMRotor.Net.exe
+11/25/2015   3:38 PM       151,040  N1MMRotor.Net.pdb
+ 6/28/2015   6:57 AM        77,824  n1mmv12wave.ocx
+ 6/28/2015   6:57 AM        18,432  N1MMV12WaveLib.dll
+ 9/19/2015  11:30 AM       471,040  NAudio.dll
+ 9/19/2015  11:30 AM        82,944  NAudio.WindowsMediaFormat.dll
+ 6/28/2015   6:57 AM       414,720  ObjectListView.dll
+ 2/21/2018   6:18 PM  <DIR>         PrerequisiteInstallers
+11/25/2015   3:37 PM       336,466  RevisionHistory.txt
+ 2/21/2018   6:18 PM  <DIR>         SkinsAndLayouts
+ 6/28/2015   6:59 AM       871,424  SQLite.Interop.dll
+ 6/28/2015   6:58 AM       114,688  SunCalcs.dll
+ 6/28/2015   6:59 AM       270,336  System.Data.SQLite.dll
+ 2/21/2018   7:15 PM        65,883  Uninstall.exe
+ 2/21/2018   6:18 PM  <DIR>         Wav
+ 6/28/2015   6:57 AM       368,640  xmmt.ocx
+ 6/28/2015   6:57 AM        75,776  XMMTLib.dll
+      39 files               30,360,876 bytes
+       5 directories     75,378,208,768 bytes free
+
+
+C:\Program Files\N1MM Logger+>ccdcd cd .cd ..cd . cd  cd c    . ./ ./ ./U ./Un ./Uni ./Uni^I ./Uni   ./Unis ./Unist ./Unista ./Unistal ./Unistall ./Unistall. ./Unistall.e ./Unistall.ex ./Unistall.exe
+Can't recognize './Unistall.exe' as an internal or external command, or batch script.
+
+C:\Program Files\N1MM Logger+>../././U./Un./Uni./Unis./Uni ./Unin./Unins./Uninst./Uninsta./Uninstal./Uninstall./Uninstall../Uninstall.e./Uninstall.ex./Uninstall.exe
+
+C:\Program Files\N1MM Logger+>ccdcd cd .cd ..
+
+C:\Program Files>ddidir
+Volume in drive C has no label.
+Volume Serial Number is 0000-0000
+
+Directory of C:\Program Files
+
+ 2/21/2018   6:18 PM  <DIR>         .
+ 2/21/2018   6:15 PM  <DIR>         ..
+ 2/21/2018   6:15 PM  <DIR>         Common Files
+ 2/21/2018   6:15 PM  <DIR>         Internet Explorer
+ 2/21/2018   7:28 PM  <DIR>         N1MM Logger+
+ 2/21/2018   6:15 PM  <DIR>         Windows Media Player
+ 2/21/2018   6:15 PM  <DIR>         Windows NT
+       0 files                        0 bytes
+       7 directories     75,407,544,320 bytes free
+
+
+C:\Program Files>
+
+C:\Program Files>eexexiexit
+[?1l>]0;jdetke@jdetke-ThinkPad-T430s: ~/.wine/drive_c/Program Filesjdetke@jdetke-ThinkPad-T430s:~/.wine/drive_c/Program Files$ rm -rf .win[K[K[K[K[K[K[K[K[K[K[Kcd
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ rm -rf .wine*
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ pwd
+/home/jdetke
+]0;jdetke@jdetke-ThinkPad-T430s: ~jdetke@jdetke-ThinkPad-T430s:~$ ls
+08.28.2013.img                                hipchat-install.sh                reading
+2008.miata.carfax                             [0m[01;34mISOs[0m                              RepeaterBook__20180205.csv
+[01;34mansible[0m                                       James                             [01;34mrepos[0m
+[01;34mBackups[0m                                       james.pc.newegg.cart              resume.abw
+[01;34mbin[0m                                           kirby.radios.pdf                  resume-cover.txt
+[01;34mBuild[0m                                         [01;31mkk.tar[0m                            resume.txt
+[01;34mCalibre Library[0m                               [01;34mksar[0m                              rsync-exclude.txt
+car.shopping                                  libpeerconnection.log             sdr.conf
+comcast.sep.11.2016                           [01;34mLinda[0m                             sort
+costco.order.sep.2016                         Linux Systems Administrator.docx  [01;34mspypoint[0m
+[01;34mcrashplan[0m                        

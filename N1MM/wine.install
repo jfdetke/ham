@@ -1,0 +1,9 @@
+
+##wget https://dl.winehq.org/wine-builds/Release.key
+##apt-key add Release.key
+## apt-add-repository 'https://dl.winehq.org/wine-builds/ubuntu/'
+#
+apt-get update
+apt install --install-recommends winehq-stable
+
+sudo apt-get install wine-mono
