@@ -1,0 +1,8 @@
+
+2021-08-01
+
+Downloaded latest ARES 82 images, and CSV.
+82 image won't upload to BF-F8HP.
+Downloaded image from radio
+in CHirp, import from ARES 82 image .... channels are updated.
+Uploaded/programmed 2 handhelds.
